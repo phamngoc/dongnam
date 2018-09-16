@@ -1,0 +1,94 @@
+/*
+* Countdown Style
+* 
+ */
+.countdown-shortcode-wrap {
+    .countdown-content {
+        // Number style
+        .list-time {
+            list-style: none;
+            list-style-type: none;
+            padding: 0;
+            text-align: center;
+            color: @black;
+            li {
+                position: relative;
+                display: inline-block;
+                padding: 10px 0;
+                width: 100px;
+                height: 60px;
+                &.cd-hours{
+                    &:before {
+                        content: '';
+                        position: absolute;
+                        bottom: 0;
+                        height: 1px;
+                        width: 34px;
+                        background: @black;
+                        z-index: 10;
+                        left: 50%;
+                        .transform(translateX(-50%) scale(1));
+                        .transition( all 0.5s ease-in-out);
+                    }
+                    &:after{
+                        content: '';
+                        position: absolute;
+                        top: 0;
+                        height: 1px;
+                        width: 34px;
+                        background: @black;
+                        z-index: 10;
+                        left: 50%;
+                        .transform(translateX(-50%) scale(1));
+                        .transition( all 0.5s ease-in-out);   
+                    }
+                }
+                p {
+                    margin: 0;
+                    &.countdown-number {
+                        font-size: 24px;
+                        font-weight: bold;
+                        &:after{
+                            content: ':';
+                            position: absolute;
+                            right: 0;
+                            color: lighten(@black, 30%);
+                        }
+
+                    }
+                    &:last-child{
+                        opacity: 0;
+                        visibility: hidden;
+                        margin-top: 10px;
+                        text-align: center;
+                    }
+                }
+                &.cd-seconds{
+                    p.countdown-number{
+                        &:after{
+                            content: '';
+                        }
+                    }
+                }
+                &:hover{
+                    &:before,&:after{
+                        .transform(translateX(-50%) scale(1));
+                    }
+                    p:last-child{
+                        opacity: 1;
+                        visibility: visible;
+                    }
+                }
+            }
+        }
+        // Circles Style
+        .time_circles {
+             color: @white;
+            .textDiv_Days, .textDiv_Hours, .textDiv_Minutes, .textDiv_Seconds  {
+                h4, span {
+                    color: @white;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,216 @@
+
+/* Yolo video player*/
+.yolo-video-player{
+	position: relative;
+	display: table;
+	width: 100%;
+	.container-text {
+		position: relative;
+	}
+    .yl-button-play{
+	    opacity: 1;
+	    display: table-cell;
+	    vertical-align: middle;
+	    .play-button{
+		    text-align: center;
+		    display: table;
+		    margin: 0 auto;
+		    .transition(all .2s);
+		    &:hover{
+		        cursor: pointer;
+		        i{
+		        	color: @primary_color!important;
+		        }
+	      	}
+		    i{
+	        vertical-align: middle;
+	        display: table-cell;
+	        font-size: 50px;
+	        .transition(all .35s ease);
+          @media(max-width:767px){
+            font-size: 160px;
+          }
+           @media(max-width:480px){
+            font-size: 130px;
+          }
+		    }
+	    }
+  	}
+  	.iframe-video-player{
+	    position: absolute;
+	    top: 0px;
+	    left: 0px;
+	    height: 100%;
+	    width: 100%;
+	    opacity: 0;
+	    display: none;
+	    overflow: hidden;
+	    background-color: #000000;
+	    .video-close{
+		    padding: 5px 10px;
+		    right: 0;
+		    cursor: pointer;
+		    color: white;
+		    background: @primary_color;
+		    z-index: 1;
+		    position: absolute;
+	    }
+  	}
+}
+.yolo-video-player.style_1{
+  display: block;
+  margin-bottom: 30px;
+  .container-text {
+    position: absolute;
+    top: 50%;
+    .translateY(-50%);
+    @media(max-width:991px){
+      position: relative;
+    }
+  }
+    .yl-button-play{
+      display: block;
+      .yl-introduction{
+        top: 0px;
+        left: 0;
+        position: relative;
+        font-size: 28px;
+        color: @white;
+        text-align: center;
+        margin-bottom: 0;
+        margin-top: 10px;
+       @media(max-width:767px){
+          font-size: 24px;
+        }
+      }
+      .yl-description{
+        right: 0;
+        bottom: 0px;
+        position: relative;
+        font-size: 20px;
+        font-weight: 400;
+        color: @white;
+        text-align: center;
+        text-transform: uppercase;
+        margin-top: 0px;
+       @media(max-width:767px){
+          font-size: 16px;
+        }
+      }
+      .play-button{
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+        .transition(all .2s);
+        &:hover{
+            cursor: pointer;
+          }
+        i{
+          vertical-align: middle;
+          display: block;
+          font-size: 60px;
+          .transition(all .35s ease);
+          @media(max-width:767px){
+            
+          }
+        }
+      }
+    }
+    .iframe-video-player{
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      height: 100%;
+      width: 100%;
+      opacity: 0;
+      display: none;
+      overflow: hidden;
+      background-color: #000000;
+      .video-close{
+        padding: 5px 10px;
+        right: 0;
+        cursor: pointer;
+        color: white;
+        background: @primary_color;
+        z-index: 1;
+        position: absolute;
+      }
+    }
+}
+// Yolo video 2
+.yolo-video-player.style_2{
+  .container-text {
+    position: relative;
+  }
+    .yl-button-play{
+      .yl-introduction{
+        top: 0px;
+        left: 0;
+        position: relative;
+        font-size: 72px;
+        color: @white;
+        text-align: center;
+        margin-bottom: 0;
+        margin-top: 30px;
+       @media(max-width:767px){
+          font-size: 36px;
+        }
+      }
+      .yl-description{
+        right: 0;
+        bottom: 0px;
+        position: relative;
+        font-size: 24px;
+        font-weight: 400;
+        color: @white;
+        text-align: center;
+        text-transform: uppercase;
+        margin-top: 30px;
+       @media(max-width:767px){
+          font-size: 18px;
+        }
+      }
+      .play-button{
+        text-align: center;
+        display: table;
+        margin: 0 auto;
+        .transition(all .2s);
+        &:hover{
+            cursor: pointer;
+            i{
+              color: @secondary_color!important;
+            }
+          }
+        i{
+          vertical-align: middle;
+          display: table-cell;
+          font-size: 210px;
+          color: @primary_color;
+          .transition(all .35s ease);
+          @media(max-width:767px){
+            font-size: 150px;
+          }
+        }
+      }
+    }
+    .iframe-video-player{
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      height: 100%;
+      width: 100%;
+      opacity: 0;
+      display: none;
+      overflow: hidden;
+      background-color: #000000;
+      .video-close{
+        padding: 5px 10px;
+        right: 0;
+        cursor: pointer;
+        color: white;
+        background: @primary_color;
+        z-index: 1;
+        position: absolute;
+      }
+    }
+}

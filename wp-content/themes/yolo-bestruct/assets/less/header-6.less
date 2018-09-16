@@ -1,0 +1,225 @@
+@media screen and (min-width:1370px) {
+    header.yolo-main-header.header-6 .yolo-header-nav-wrapper.nav-fullwith {
+        padding-left: @header_6_nav_layout_padding;
+        padding-right: @header_6_nav_layout_padding;
+    }
+}
+.header-6 {
+    .yolo-top-bar {
+        border-bottom: 1px solid #eee;
+        aside {
+            padding: 0 20px;
+            .search-form{
+                input[type="text"]{
+                    border-radius: 20px;
+                    height: 30px;
+                }
+            }
+            &.widget_product_search {
+                .search-field {
+                    background-color: transparent;
+                    color: @white;
+                }
+                button {
+                    i {
+                        color: @white;
+                        .transition(all 0.35s ease-in-out);
+                    }
+                    &:hover {
+                        i {
+                            color: @primary_color;
+                        }
+                    }
+                }
+            }
+            .textwidget {
+                i {
+                    padding-right: 10px;
+                    color: @primary_color;
+                }
+            }
+        }
+    }
+}
+header.header-6 {
+    position: relative;
+    background-color: @header_6_nav_bg_color;
+    .yolo-header-nav-wrapper {
+        position: relative;
+        height: @header_6_height;
+        .transition(all 0.35s ease 0s);
+        .container {
+            .yolo-header-wrapper {
+                .header-left-offcanvas {
+                    position: relative;
+                    z-index: 2;
+                    float: left;
+                    .canvas-menu-toggle-wrapper {
+                        padding-right: 70px;
+                    }
+                }
+                .header-left {
+                    float: left;
+                    .header-logo {
+	                    text-align: center;
+	                    height: @header_6_height;
+	                    > a{
+	                    	> img{
+	                    		max-height: @header_6_height;
+	                    	}
+	                    }
+                        @media(max-width: 1199px){
+                           a{
+                                img{
+                                    padding-top: 33px;
+                                    padding-bottom: 43px;
+                                }
+                            } 
+                        }
+                        
+                    }
+                }
+                .header-center {
+                    text-align: right;
+                    float: right;
+                    .menu-wrapper {
+                        display: inline-block;
+                        float: left;
+                        #main-menu {
+                            text-align: left;
+                            & > li {
+                                &:first-child {
+                                    > a {
+
+                                    }
+                                }
+                                & > a {
+                                	color: @header_6_nav_text_color;
+                                	padding-right: @header_6_nav_distance;
+                                	padding-left: @header_6_nav_distance;
+                                    line-height: @header_6_height;
+                                    padding-top: 0;
+                                    padding-bottom: 0;
+                                    @media(max-width:1199px){
+                                        padding: 0 5px !important;
+                                    }
+                                }    
+                            }
+                            
+                        }
+                    }
+                    .header-customize {
+                        float: right;
+                        line-height: 120px;
+                        color: @header_6_nav_text_color;
+                        .header-customize-item{
+                            margin-left: 15px;
+                        }
+                    }
+                }
+                .header-right {
+                    display: none;
+                    float: right;
+                    .header-customize-right {
+                        height: @header_6_height;
+                    }
+                }
+            }
+        }
+        &.sticky-in {
+            .transition(all 0s ease 0s);
+        }
+        &.sticky-on {
+            background-color: @header_6_nav_bg_color;
+            height: 60px;
+            .container{
+                .yolo-header-wrapper {
+                    .header-left-offcanvas {
+                        .header-customize {
+                            height: 60px;
+                        }
+                    }
+                }
+                .header-left {
+                    .header-logo {
+                        line-height: 60px ;
+                        height: 60px !important;
+                        img {
+                            max-height: 40px !important;
+                            padding-top: 10px  !important;
+                            padding-bottom: 10px!important;
+                        }
+                    }
+                }
+                .header-center {
+                    .menu-wrapper {
+                        #main-menu {
+                            & > li {
+                                & > a {
+                                    padding-top: 20px;
+                                    padding-bottom: 20px;
+                                    line-height: 1.5 !important;
+                                }
+                            }
+                        }
+                    }
+                    .header-customize {
+                        line-height: 60px ;
+                    }
+                }
+                .header-right {
+                    float: right;
+                    .header-customize-right {
+                        height: 60px;
+                    }
+                }
+            }
+        }
+        &.sticky-out {
+            background-color: @header_6_nav_bg_color;
+            height: 60px;
+            .container{
+                .yolo-header-wrapper {
+                    .header-left-offcanvas {
+                        .header-customize {
+                            height: 60px;
+                        }
+                    }
+                }
+                .header-left {
+                    .header-logo {
+                        line-height: 60px;
+                        height: 60px !important;
+                        img {
+                            max-height: 40px !important;
+                            padding-top: 10px  !important;
+                            padding-bottom: 10px!important;
+                        }
+                    }
+                }
+                .header-center {
+                    .menu-wrapper {
+                        #main-menu {
+                            & > li {
+                                & > a {
+                                    padding-top: 20px;
+                                    padding-bottom: 20px;
+                                    line-height: 1.5 !important;
+                                }
+                            }
+                        }
+                    }
+                    .header-customize {
+                        line-height: 60px ;
+                    }
+                }
+                .header-right {
+                    float: right;
+                    .header-customize-right {
+                        height: 60px;
+                    }
+                }
+            }
+        }
+    }
+}

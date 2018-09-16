@@ -1,0 +1,200 @@
+/*-------------------------------------
+YOLO PAGE TITLE & BREADCRUMB 
+---------------------------------------*/
+.yolo-page-title-section{
+    margin-top: @page_title_margin_top;
+    margin-bottom: @page_title_margin_bottom;
+    .yolo-breadcrumb-wrap {
+        ul.breadcrumbs {
+            margin: 0;
+            padding: 0;
+            > li {
+                color: @page_title_color;
+                list-style: none;
+                display: inline-block;
+                padding: 9px 10px 9px 20px;
+                position: relative;
+                &:before {
+                    position: absolute;
+                    left: 0;
+                    content: '/'; 
+                }
+                &:first-child {
+                    &:before {
+                        content: '\f178'; 
+                        font-family: fontAwesome;  
+                    }
+                }
+            }
+        }
+    }
+    &.page-title-style-1{
+        .content-page-title{
+            top: 50%;
+            position: absolute;
+            width: 100%;
+            .translateY(-50%);
+        }
+    }
+    &.page-title-style-2{
+        .content-page-title{
+            top: 50%;
+            position: absolute;
+            width: 100%;
+            .translateY(-50%);
+            h1{
+                text-align: center;
+            }
+            ul.breadcrumbs {
+                text-align: center;
+            }
+        }
+    }
+    &.page-title-style-3{
+        .content-page-title{
+            top: 50%;
+            position: absolute;
+            width: 100%;
+            .translateY(-50%);
+            h1{
+                text-align: right;
+            }
+            ul.breadcrumbs {
+                text-align: right;
+                li{
+                    &:last-child{
+                        padding-right: 0;
+                    }
+                }
+            }
+        }
+    }
+    &.page-title-style-4{
+        .content-page-title{
+            padding: 20px 0;
+            bottom: 0;
+            position: absolute;
+            width: 100%;
+            background-color: fade(#0f0f0f, 60%);
+            h1{
+                text-align: left;
+            }
+            ul.breadcrumbs {
+                text-align: right;
+                li{
+                    &:last-child{
+                        padding-right: 0;
+                    }
+                }
+            }
+            .page-title-inner,.yolo-breadcrumb-wrap{
+                width: 50%;
+                float: left;
+                display: inline-block;
+            }
+        }
+    }
+    &.page-title-style-5{
+        .content-page-title{
+            padding: 20px 0;
+            bottom: 0;
+            position: absolute;
+            width: 100%;
+            background-color: fade(#0f0f0f, 60%);
+            h1{
+                text-align: right;
+            }
+            ul.breadcrumbs {
+                text-align: left;
+            }
+            .page-title-inner,.yolo-breadcrumb-wrap{
+                width: 50%;
+                display: inline-block;
+            }
+            .page-title-inner{
+                float: right;
+            }
+            .yolo-breadcrumb-wrap{
+                float: left;
+            }
+        }
+    }
+}
+.yolo-page-title-wrap {
+    height: 230px;
+    width: 100%;
+    position: relative;
+    background-color: @page_title_bg_color;
+    .content-page-title{
+        padding: 10px 0;
+    }
+}
+
+.yolo-page-title-wrap .container {
+    height: 100%;
+    .page-title-inner {
+        .block-inner {
+
+        }
+    }
+}
+.page-title-inner {
+    vertical-align: middle;
+    position: relative;
+    z-index: 1;
+}
+
+.page-title-inner h1 {
+    margin-bottom: 0;
+    color: @page_title_color;
+    font-size: 48px;
+    text-transform: uppercase;
+}
+
+.page-title-inner .page-sub-title {
+    letter-spacing: 0.05em;
+    margin-top: 0;
+    display: block;
+}
+
+.page-title-wrap-bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.page-title-parallax {
+    background-attachment: fixed;
+    @media(max-width: @screen-sm-max) {
+        background-position: center!important;
+    }
+}
+
+.yolo-page-title-overlay {
+    content: "";
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background-color: @page_title_overlay_color;
+}
+
+/*--------
+BREADCRUMB
+---------*/
+
+ul.breadcrumbs {
+    padding: 32px 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+ul.breadcrumbs li {
+    display: inline-block;
+}
+
+ul.breadcrumbs li a, ul.breadcrumbs li span {
+    line-height: 1.2;
+    display: inherit;
+}

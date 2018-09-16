@@ -1,0 +1,81 @@
+@media screen and (min-width:1370px) {
+    header.yolo-main-header.header-2 .yolo-header-nav-wrapper.nav-fullwith {
+        padding-left: @header_2_nav_layout_padding;
+        padding-right: @header_2_nav_layout_padding;
+    }
+}
+header.header-2 {
+    background-color: @header_2_nav_bg_color;
+}
+.header-2 {
+    .yolo-header-nav-above {
+    	border-bottom: 1px solid darken(@header_2_nav_bg_color, 10%);
+        .container {
+            position: relative;
+            .header-logo {
+                height: @header_2_height;
+                position: relative;
+                a {
+                    img {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        bottom: 0;
+                        right: 0;
+                        text-align: center;
+                        margin: auto;
+                    }
+                }
+            }
+            .fr {
+                position: absolute;
+                right: 0;
+                top: 0;
+                .header-customize-right {
+                    height: @header_2_height;
+                    padding-left: 40px;
+                }
+            }
+            .fl {
+                .header-customize-left {
+                    height: @header_2_height;
+                    padding-right: 50px;
+                }
+            }
+        }
+    }
+    .yolo-header-nav-wrapper {
+        .container {
+            clear: both;
+            .yolo-header-wrapper {
+                .header-left {
+                    float: none;
+                    text-align: center;
+                    .menu-wrapper {
+                        display: inline-block;
+                        #main-menu {
+                            display: inline-block;
+                            float: none;
+                            > li {
+                                display: inline-block;
+                                float: none;
+                                > a{
+                                	padding-left: @header_2_nav_distance;
+                                	padding-right: @header_2_nav_distance;
+                                }
+                            }
+                        }
+                    }
+                    .header-customize-nav{
+                        .header-customize-item{
+                            margin-left: 10px;
+                        }
+                    }
+                }
+            }
+        }
+        &.sticky-on{
+        	background-color: @header_2_nav_bg_color;
+        }
+    }
+}

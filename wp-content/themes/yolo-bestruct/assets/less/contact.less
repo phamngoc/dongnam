@@ -1,0 +1,507 @@
+// Custom contact form
+.wpcf7 {
+    .home-1 {
+        position: relative;
+        .your-email {
+            input {
+                width: 100%;
+                background-color: @white;
+
+                &::-webkit-input-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                &::-moz-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                border: 1px solid @primary_color;
+            }
+        }
+        .ctf7_submit {
+            position: absolute;
+            top: 0;
+            right: 0;
+            overflow: hidden;
+
+            &:before {
+                content: '\f1d8';
+                font-family: fontawesome;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                text-align: center;
+                line-height: 42px;
+                .transition(all 0.35s ease);
+            }
+            input {
+                padding: 9px 10px;
+                position: relative;
+                z-index: 2;
+                color: transparent;
+                height: 42px;
+                background-color: transparent;
+                border: none;
+            }
+            img {
+                margin-left: -50px;
+            }
+            &:hover {
+                &:before {
+                    .animation(toRightFromLeft 0.3s forwards);
+                    color: @primary_color;
+                }
+            }
+        }
+    }
+    .home-2 {
+        position: relative;
+        width: 80%;
+        .your-email {
+            width: 80%;
+            input {
+                width: 80%;
+                background-color: @white;
+                color: @text_color;
+
+                &::-webkit-input-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                &::-moz-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                border: 1px solid #afafaf;
+                border-right: none;
+                @media(max-width:479px){
+                    width: 100%;
+                }
+            }
+            @media(max-width:991px){
+                width: 70%;
+            }
+            @media(max-width:479px){
+                width: 100%;
+                position: relative;
+                input {
+                   border: 1px solid #afafaf; 
+                   text-align: center;
+                }
+                margin-bottom: 10px;
+            }
+        }
+        .ctf7_submit {
+            position: absolute;
+            top: 0;
+            right: 0;
+            overflow: hidden;
+            color: @white;
+            width: 20%;
+            .transition(all 0.35s ease);
+
+            input {
+                text-transform: uppercase;
+                text-align: center;
+                font-size: 14px;
+                color: @white;
+                padding: 9px 10px;
+                position: relative;
+                z-index: 2;
+                height: 42px;
+                background-color: @primary_color;
+                border: none;
+                width: 100%;
+                .transition(all 0.35s ease);
+            }
+            img {
+                margin-left: -50px;
+            }
+            &:hover {
+                input {
+                    background-color: darken(@primary_color, 10%);
+                }
+            }
+            @media(max-width:1199px){
+                width: 25%;
+            }
+            @media(max-width:991px){
+                width: 30%;
+            }
+            @media(max-width:479px){
+                width: 40%;
+                position: relative;
+                margin: 0 auto;
+                margin-top: 15px;
+            }
+        }
+        @media(max-width:991px){
+            width: 100%;
+        }
+    }
+    .home-5 {
+        position: relative;
+        width: 55%;
+        margin: 0 auto;
+        .your-email {
+            width: 80%;
+            input {
+                width: 80%;
+                background-color: @white;
+                color: @text_color;
+                padding-right: 10%;
+                text-align: center;
+
+                &::-webkit-input-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                &::-moz-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                border: 1px solid #afafaf;
+                border-right: none;
+                border-radius: 20px;
+            }
+            @media(max-width:479px){
+                input {
+                    padding-right: 20%;
+                }
+            }
+            .wpcf7-not-valid-tip{
+                margin-top: 20px;
+            }
+        }
+        .ctf7_submit {
+            position: absolute;
+            top: 0;
+            right: 0;
+            overflow: hidden;
+            color: @white;
+            width: 30%;
+            .transition(all 0.35s ease);
+
+            input {
+                text-transform: uppercase;
+                text-align: center;
+                font-size: 14px;
+                color: @white;
+                padding: 9px 10px;
+                position: relative;
+                z-index: 2;
+                height: 42px;
+                background-color: @primary_color;
+                border: none;
+                width: 100%;
+                border-radius: 20px;
+            }
+            img {
+                margin-left: -50px;
+            }
+            &:hover {
+                input {
+                    background-color: darken(@primary_color, 10%);
+                }
+            }
+             @media(max-width:479px){
+                width: 40%;
+            }
+        }
+        @media(max-width:767px){
+            width: 100%;
+        }
+    }
+    .home-6 {
+        position: relative;
+        width: 50%;
+        margin: 0 auto;
+        .your-email {
+            width: 80%;
+            input {
+                width: 80%;
+                background-color: @white;
+                color: @text_color;
+
+                &::-webkit-input-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                &::-moz-placeholder {
+                    color: fade(@black, 50%);
+                    font-style: italic;
+                }
+                background-color: @white;
+                border-right: none;
+            }
+            .wpcf7-not-valid-tip{
+                margin-top: 20px;
+            }
+            @media(max-width:479px){
+                width: 60%;
+            }
+        }
+        .ctf7_submit {
+            position: absolute;
+            top: 0;
+            right: 0;
+            overflow: hidden;
+            color: @white;
+            width: 20%;
+            .transition(all 0.35s ease);
+
+            input {
+                text-transform: uppercase;
+                text-align: center;
+                font-size: 14px;
+                color: @white;
+                padding: 9px 10px;
+                position: relative;
+                z-index: 2;
+                height: 42px;
+                background-color: @heading_color;
+                border: none;
+                width: 100%;
+                font-weight: bold;
+            }
+            img {
+                margin-left: -50px;
+            }
+            &:hover {
+                input {
+                    background-color: lighten(@heading_color, 20%);
+                }
+            }
+            @media(max-width:479px){
+                width: 40%;
+            }
+        }
+        @media(max-width:991px){
+            width: 80%;
+        }
+        @media(max-width:767px){
+            width: 100%;
+        }
+    }
+    .wpcf7-response-output{
+        color: red;
+        background: @white;
+        border: none;
+    }
+    .cf_home3 {
+        p {
+            span{
+                position: relative;
+                display: block;
+                &:before{
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    height: 50%;
+                    border: 1px solid #7a7a7a;
+                    width: 100%;
+                    border-top: none;
+                }
+                &.your-message{
+                    &:before{
+                        content: '';
+                        position: absolute;
+                        bottom: 0;
+                        left: 0;
+                        height: ~'calc(100% - 25px)';
+                        border: 1px solid #7a7a7a;
+                        width: 100%;
+                        border-top: none;
+                    }
+                }
+                &.wpcf7-not-valid-tip{
+                    position: absolute;
+                    &:before{
+                        display: none;
+                    }
+                }
+            }
+            input[type=text], input[type=email], textarea {
+                background-color: transparent;
+                width: 100%;
+                color: @text_color;
+                position: relative;
+                z-index: 2;
+                &::-webkit-input-placeholder {
+                    color: fade(@text_color, 85%);
+                    font-style: italic;
+                }
+                &::-moz-placeholder {
+                    color: fade(@text_color, 85%);
+                    font-style: italic;
+                }
+            }
+            input[type=submit] {
+                margin: 0 auto;
+                margin-top: 30px;
+                display: block;
+                background-color: transparent;
+                text-transform: uppercase;
+                border-radius: 30px;
+                font-weight: bold;
+                .transition(all 0.35s ease);
+                color: @primary_color;
+                border: 1px solid @primary_color;
+                &:hover {
+                    color: @white;
+                    background-color:@primary_color;
+                }
+            }
+        }
+    }
+    .cf_contact_page {
+        p {
+            text-transform: uppercase;
+            font-weight: bold;
+            color: @heading_color;
+            strong{
+                position: relative;
+                &:after{
+                    content: '*';
+                    display: inline-block;
+                    color: red;
+                    margin-left: 3px;
+                }
+            }
+            &:first-child{
+                width: ~'calc(50% - 15px)';
+                float: left;
+            }
+            &:nth-child(2){
+                width: ~'calc(50% - 15px)';
+                float: right;
+            }
+            > span{
+                margin-top: 5px;
+                position: relative;
+                display: block;
+                text-transform: none;
+            }
+            input[type=text], input[type=email], textarea {
+                border: 1px solid #9b9b9b;
+                background-color: transparent;
+                width: 100%;
+                color: @text_color;
+                position: relative;
+                z-index: 2;
+                &::-webkit-input-placeholder {
+                    color: fade(@text_color, 85%);
+                    font-style: italic;
+                }
+                &::-moz-placeholder {
+                    color: fade(@text_color, 85%);
+                    font-style: italic;
+                }
+                &:focus{
+                    border-color: @primary_color;
+                }
+            }
+            input[type=submit] {
+                margin: 0 auto;
+                margin-top: 30px;
+                display: block;
+                background-color: transparent;
+                text-transform: uppercase;
+                font-weight: bold;
+                .transition(all 0.35s ease);
+                background-color: @primary_color;
+                color: @white;
+                &:hover {
+                    color: @white;
+                    background-color:darken(@primary_color, 10%);
+                }
+            }
+        }
+    }
+    .cf_services {
+        p {
+            font-size: 16px;
+            margin-bottom: 40px;
+            strong{
+                position: relative;
+                color: @heading_color;
+                text-transform: uppercase;
+                &:after{
+                    content: '';
+                    display: inline-block;
+                    margin-left: 5px;
+                }
+            }
+            &.name,&.phone,&.date{
+                width: ~'calc(50% - 15px)';
+                float: left;
+                @media(max-width:479px){
+                    width: 100%;
+                }
+            }
+            &.email,&.address,&.time{
+                width: ~'calc(50% - 15px)';
+                float: right;
+                @media(max-width:479px){
+                    width: 100%;
+                    float: none;
+                }
+            }
+            &.browser{
+                
+            }
+            > span{
+                margin-top: 5px;
+                position: relative;
+                display: block;
+                text-transform: none;
+            }
+            input[type=text], input[type=email], textarea,select,input[type=date] {
+                border: 1px solid #c4c4c4;
+                background-color: transparent;
+                width: 100%;
+                color: @text_color;
+                position: relative;
+                z-index: 2;
+                padding: 0 15px;
+                
+                &::-webkit-input-placeholder {
+                    color: fade(@text_color, 85%);
+                    font-style: italic;
+                }
+                &::-moz-placeholder {
+                    color: fade(@text_color, 85%);
+                    font-style: italic;
+                }
+                &:focus{
+                    border-color: @primary_color;
+                }
+            }
+            textarea{
+                padding: 15px;
+            }
+            input[type=date]{
+                height: 42px;
+                padding: 7px;
+            }
+            input[type=submit] {
+                margin: 0 auto;
+                margin-top: 30px;
+                display: block;
+                background-color: transparent;
+                text-transform: uppercase;
+                font-weight: bold;
+                .transition(all 0.35s ease);
+                background-color: @primary_color;
+                color: @white;
+                &:hover {
+                    color: @white;
+                    background-color:darken(@primary_color, 10%);
+                }
+            }
+        }
+    }
+}

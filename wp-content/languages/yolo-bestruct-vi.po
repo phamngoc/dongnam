@@ -1,0 +1,3823 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Yolo Bestruct Framework\n"
+"POT-Creation-Date: 2017-05-26 08:29+0700\n"
+"PO-Revision-Date: 2018-09-16 10:32+0700\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: yolo-bestruct-framework.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: vi_VN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/importer/inc/class-importer-helpers.php:25
+#, php-format
+msgid "URL for %s%s%s file is not defined!"
+msgstr "URL cho tệp %s %s %s không được xác định!"
+
+#: includes/importer/inc/class-importer-helpers.php:47
+#, php-format
+msgid ""
+"An error occurred while fetching %s%s%s file from the server!%sReason: %s - "
+"%s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-helpers.php:115
+#: includes/importer/inc/class-importer-helpers.php:158
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %s%s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-helpers.php:151
+#, php-format
+msgid "Time: %s"
+msgstr ""
+
+#: includes/importer/inc/class-importer-helpers.php:190
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %s%s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-helpers.php:194
+msgid "Failed reading file from server!"
+msgstr ""
+
+#: includes/importer/inc/class-importer-helpers.php:240
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory "
+"of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-helpers.php:251
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: includes/importer/inc/class-importer-helpers.php:259
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:43
+#, php-format
+msgid "Menu item skipped due to missing menu slug %s"
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:51
+#: includes/importer/inc/class-importer-menu.php:76
+#, php-format
+msgid "Menu item skipped: %s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:68
+#, php-format
+msgid "Menu item skipped due to invalid menu slug %s"
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:390
+#, php-format
+msgid "The given object ID is not that of a menu item: %s"
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:398
+#, php-format
+msgid "Update Nav Menu Item Failed: %s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:416
+#, php-format
+msgid "Invalid menu ID: %s"
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:424
+#, php-format
+msgid "Invalid Menu ID: %s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:442
+#, php-format
+msgid "ERROR Create Menu: %s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:550
+#, php-format
+msgid "ERROR Update Menu: %s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-menu.php:620
+#, php-format
+msgid "Success Update Menu: %s+Menu name: %s%s+Menu ID: %s."
+msgstr ""
+
+#: includes/importer/inc/class-importer-parse.php:23
+msgid "Get Base Site Url"
+msgstr ""
+
+#: includes/importer/inc/class-importer-parse.php:34
+#: includes/importer/inc/class-importer-parse.php:46
+#: includes/importer/inc/class-importer-parse.php:58
+#: includes/importer/inc/class-importer-parse.php:71
+#: includes/importer/inc/class-importer-parse.php:83
+#: includes/importer/yolo-import.php:910 includes/importer/yolo-import.php:1276
+#: includes/importer/yolo-import.php:1283
+#: includes/importer/yolo-import.php:1290
+#: includes/importer/yolo-import.php:1297
+#: includes/importer/yolo-import.php:1599
+#: includes/importer/yolo-import.php:1617
+#: includes/importer/yolo-import.php:1771
+#: includes/importer/yolo-import.php:1894
+#, php-format
+msgid "Number: %s"
+msgstr ""
+
+#: includes/importer/inc/class-importer-parse.php:34
+msgid "Total Category"
+msgstr ""
+
+#: includes/importer/inc/class-importer-parse.php:46
+msgid "Total Term"
+msgstr ""
+
+#: includes/importer/inc/class-importer-parse.php:58
+msgid "Total Tags"
+msgstr ""
+
+#: includes/importer/inc/class-importer-parse.php:71
+msgid "Total Author"
+msgstr ""
+
+#: includes/importer/inc/class-importer-parse.php:83
+msgid "Total Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:69
+msgid "Security Breach! Please contact admin!"
+msgstr ""
+
+#: includes/importer/yolo-import.php:104
+msgid "Start process importer data, please wait process posts..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:111
+msgid "Start Importer"
+msgstr ""
+
+#: includes/importer/yolo-import.php:121
+msgid "Start Check File Systems"
+msgstr ""
+
+#: includes/importer/yolo-import.php:123 includes/importer/yolo-import.php:175
+msgid "Check File Systems"
+msgstr ""
+
+#: includes/importer/yolo-import.php:129
+msgid "Check file content.xml -> OK"
+msgstr ""
+
+#: includes/importer/yolo-import.php:131
+msgid "Check file content.xml -> ERROR"
+msgstr ""
+
+#: includes/importer/yolo-import.php:138
+msgid "Check file widgets.wie -> OK"
+msgstr ""
+
+#: includes/importer/yolo-import.php:140
+msgid "Check file widgets.wie -> ERROR"
+msgstr ""
+
+#: includes/importer/yolo-import.php:147
+msgid "Check file option.json -> OK"
+msgstr ""
+
+#: includes/importer/yolo-import.php:149
+msgid "Check file option.json -> ERROR"
+msgstr ""
+
+#: includes/importer/yolo-import.php:159
+#, php-format
+msgid "Check Revslider file %s -> OK"
+msgstr ""
+
+#: includes/importer/yolo-import.php:162
+#, php-format
+msgid "Check Revslider file %s -> ERROR"
+msgstr ""
+
+#: includes/importer/yolo-import.php:185
+msgid "Start Process Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:191
+msgid "Import all posts successfully, please wait process widgets..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:194
+msgid ""
+"Skip process post, because a content.xml file does not exist on the system "
+"Please wait process widgets..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:202
+msgid "End Process Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:212
+msgid "Start Process Options"
+msgstr ""
+
+#: includes/importer/yolo-import.php:216
+msgid "Import all option successfully!"
+msgstr ""
+
+#: includes/importer/yolo-import.php:218
+msgid ""
+"Skip process options, because a option.json file does not exist on the "
+"system."
+msgstr ""
+
+#: includes/importer/yolo-import.php:227
+msgid "End Process Options"
+msgstr ""
+
+#: includes/importer/yolo-import.php:237
+msgid "Start Process widgets"
+msgstr ""
+
+#: includes/importer/yolo-import.php:241
+msgid "Import all widgets successfully, please wait process posts..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:243
+msgid ""
+"Skip process widgets, because a widgets.wie file does not exist on the "
+"system Please wait process options..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:251
+msgid "End Process widgets"
+msgstr ""
+
+#: includes/importer/yolo-import.php:261
+msgid "Start Process Import RevSlider"
+msgstr ""
+
+#: includes/importer/yolo-import.php:265
+msgid "Import revslider successfully!"
+msgstr ""
+
+#: includes/importer/yolo-import.php:267
+msgid "Skip process import revslider."
+msgstr ""
+
+#: includes/importer/yolo-import.php:276
+msgid "End Process Import RevSlider"
+msgstr ""
+
+#: includes/importer/yolo-import.php:283
+msgid "Import successfully! Thank you!"
+msgstr ""
+
+#: includes/importer/yolo-import.php:290
+msgid "Complete Importer"
+msgstr ""
+
+#: includes/importer/yolo-import.php:300
+msgid "Error! Cant process file content, please check again!"
+msgstr ""
+
+#: includes/importer/yolo-import.php:328
+msgid "Start Get Author"
+msgstr ""
+
+#: includes/importer/yolo-import.php:335
+msgid "Obtaining data author successfully, please wait process get category..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:343
+msgid "End Get Author"
+msgstr ""
+
+#: includes/importer/yolo-import.php:353
+msgid "Start Get Category"
+msgstr ""
+
+#: includes/importer/yolo-import.php:356
+msgid "Obtaining data categories successfully, please wait process get tags..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:364
+msgid "End Get Category"
+msgstr ""
+
+#: includes/importer/yolo-import.php:374
+msgid "Start Get Tags"
+msgstr ""
+
+#: includes/importer/yolo-import.php:377
+msgid "Obtaining data tags successfully, please wait process get term..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:385
+msgid "End Get Tags"
+msgstr ""
+
+#: includes/importer/yolo-import.php:395
+msgid "Start Get Term"
+msgstr ""
+
+#: includes/importer/yolo-import.php:402
+msgid "Obtaining data terms successfully, please wait process get posts..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:410
+msgid "End Get Term"
+msgstr ""
+
+#: includes/importer/yolo-import.php:420
+msgid "Start Get Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:423
+msgid ""
+"Obtaining data posts successfully, please wait process get lists posts..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:431
+msgid "End Get Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:441
+msgid "Start Get Lists Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:448
+msgid ""
+"Obtaining lists posts successfully, please wait process attachment image..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:459
+msgid "End Get Lists Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:464
+#, php-format
+msgid "Please wait process post #%s..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:476
+#, php-format
+msgid "Process Lists Posts #%s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:492
+msgid "Start Get Attachment"
+msgstr ""
+
+#: includes/importer/yolo-import.php:499
+msgid ""
+"Obtaining attachment image successfully, please wait process nav menu..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:510
+msgid "End Get Attachment"
+msgstr ""
+
+#: includes/importer/yolo-import.php:515
+#, php-format
+msgid "Please wait process attachment image #%s..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:527
+#, php-format
+msgid "Process attachment image #%s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:543
+msgid "Start Get Nav Menu"
+msgstr ""
+
+#: includes/importer/yolo-import.php:550
+msgid ""
+"Obtaining data nav menu successfully, please wait process recheck all data "
+"post..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:561
+msgid "End Get Nav Menu"
+msgstr ""
+
+#: includes/importer/yolo-import.php:566
+#, php-format
+msgid "Please wait process nav menu #%s..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:578
+#, php-format
+msgid "Process Nav Menu #%s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:593
+msgid "Start Recheck Data Post"
+msgstr ""
+
+#: includes/importer/yolo-import.php:599
+msgid "Check all data post success, please wait process options..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:604
+msgid "End Recheck Data Post"
+msgstr ""
+
+#: includes/importer/yolo-import.php:639
+#: includes/posttypes/import_export_data/import.php:594
+#: includes/posttypes/import_export_data/import.php:603
+#: includes/posttypes/import_export_data/import.php:671
+#: includes/posttypes/import_export_data/import.php:675
+#: includes/posttypes/import_export_data/import.php:684
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/importer/yolo-import.php:645
+msgid "Error Import Data"
+msgstr ""
+
+#: includes/importer/yolo-import.php:654
+msgid "Start Import Data"
+msgstr ""
+
+#: includes/importer/yolo-import.php:659
+msgid ""
+"Begin the process of obtaining content data, please wait process get "
+"author..."
+msgstr ""
+
+#: includes/importer/yolo-import.php:667
+msgid "Start Get Content"
+msgstr ""
+
+#: includes/importer/yolo-import.php:713
+msgid "Get List Author Success!"
+msgstr ""
+
+#: includes/importer/yolo-import.php:740
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user.%s %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:746
+#, php-format
+msgid "ERROR: Create new user \"%s\""
+msgstr ""
+
+#: includes/importer/yolo-import.php:758 includes/importer/yolo-import.php:807
+#, php-format
+msgid "SUCCESS: Create new user \"%s\""
+msgstr ""
+
+#: includes/importer/yolo-import.php:791
+#, php-format
+msgid "Failed to import author %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:850
+#, php-format
+msgid "ERROR: Category exists \"%s\" have ID is: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:875
+#, php-format
+msgid "SUCCESS: Create category \"%s\" success have ID is: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:887
+#, php-format
+msgid "Failed to import category %s. %s %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:897
+#, php-format
+msgid "ERROR: Create category \"%s\"."
+msgstr ""
+
+#: includes/importer/yolo-import.php:910
+msgid "Total Processed Terms"
+msgstr ""
+
+#: includes/importer/yolo-import.php:947
+#, php-format
+msgid "ERROR: Tags exists \"%s\" have ID is: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:967
+#, php-format
+msgid "SUCCESS: Create tags \"%s\" success have ID is: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:980
+#, php-format
+msgid "Failed to import post tag %s. %s %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:990
+#, php-format
+msgid "Failed to create post tag: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1033
+#, php-format
+msgid "ERROR: Term exists \"%s\" have ID is: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1065
+#, php-format
+msgid "SUCCESS: Create term \"%s\" success have ID is: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1078
+#, php-format
+msgid "Failed to import %s. %s %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1088
+#: includes/importer/yolo-import.php:1145
+#: includes/importer/yolo-import.php:1186
+#: includes/importer/yolo-import.php:1407
+#: includes/importer/yolo-import.php:1477
+#, php-format
+msgid "Failed to import: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1134
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1175
+#: includes/posttypes/import_export_data/import.php:134
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1276
+msgid "Total Nav Menu"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1283
+msgid "Total Attachment File"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1290
+msgid "Total Post Parent"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1297
+msgid "Total Post"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1394
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221; %s %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1423
+#, php-format
+msgid "Create new posts: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1428
+msgid "Create Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1464
+#, php-format
+msgid "Failed to import %s %s %s %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1599
+msgid "Total Processed Posts"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1617
+msgid "Total Featured Images"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1645
+msgid "Fetching attachments is not enabled."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1648
+#: includes/importer/yolo-import.php:1714
+msgid "Attachment Processing Error"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1711
+msgid "Invalid file type."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1743
+#, php-format
+msgid "Upload image to media success!%s%s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1746
+#, php-format
+msgid "+ Source: %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1747
+#, php-format
+msgid "+ URL: %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1749
+msgid "Upload Attachment Image"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1771
+#: includes/importer/yolo-import.php:1894
+msgid "Total Url Remap"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1805
+msgid "Remote server did not respond."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1808
+#: includes/importer/yolo-import.php:1826
+#: includes/importer/yolo-import.php:1845
+#: includes/importer/yolo-import.php:1859
+#: includes/importer/yolo-import.php:1877
+msgid "Import File Error"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1822
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1842
+msgid "Remote file is incorrect size."
+msgstr ""
+
+#: includes/importer/yolo-import.php:1858
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/importer/yolo-import.php:1874
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2168
+msgid "Import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/importer/yolo-import.php:2169
+msgid "Import Data Widgets"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2222
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2244
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2280
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2342
+msgid "Imported"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2345
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2352
+msgid "No Title"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2446
+#, php-format
+msgid "ID Primary Menu is: %s."
+msgstr ""
+
+#: includes/importer/yolo-import.php:2449
+#: includes/importer/yolo-import.php:2463
+msgid "Nav Menu Locations"
+msgstr ""
+
+#: includes/importer/yolo-import.php:2460
+#, php-format
+msgid "ID Mobile Menu is: %s."
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:56
+msgid "Do you want to continue this action?"
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:57
+msgid "Please waiting, not exit page."
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:67
+msgid "Bestruct"
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:76
+#: includes/importer/yolo-setup-install.php:78
+msgid "Settings"
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:86
+msgid "Import Post"
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:91
+msgid "Import Widget"
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:96
+msgid "Import Option"
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:101
+msgid "Import Revslider"
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:117
+msgid "Install "
+msgstr ""
+
+#: includes/importer/yolo-setup-install.php:127
+msgid "Install Demo"
+msgstr ""
+
+#: includes/posttypes/footer.php:24
+msgid "Footer Blocks"
+msgstr ""
+
+#: includes/posttypes/footer.php:25
+msgid "Footer"
+msgstr ""
+
+#: includes/posttypes/footer.php:26
+msgid "All footer"
+msgstr ""
+
+#: includes/posttypes/footer.php:27 includes/posttypes/portfolio.php:49
+#: includes/posttypes/teammember.php:45 includes/posttypes/testimonial.php:43
+msgid "Add New"
+msgstr ""
+
+#: includes/posttypes/footer.php:28 includes/posttypes/footer.php:30
+msgid "Add New Footer"
+msgstr ""
+
+#: includes/posttypes/footer.php:29
+msgid "Edit Footer"
+msgstr ""
+
+#: includes/posttypes/footer.php:31
+msgid "View Footer"
+msgstr ""
+
+#: includes/posttypes/footer.php:32
+msgid "Search Footer"
+msgstr ""
+
+#: includes/posttypes/footer.php:33
+msgid "No Footer items found"
+msgstr ""
+
+#: includes/posttypes/footer.php:34
+msgid "No Footer items found in trash"
+msgstr ""
+
+#: includes/posttypes/footer.php:40
+msgid "Display footer of site"
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:15
+msgid "Sorry, you are not allowed to export the content of this site."
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:19
+msgid "Export"
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:48
+msgid "Overview"
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:49
+msgid ""
+"You can export a file of your site&#8217;s content in order to import it "
+"into another installation or platform. The export file will be an XML file "
+"format called WXR. Posts, pages, comments, custom fields, categories, and "
+"tags can be included. You can choose for the WXR file to include only "
+"certain posts or pages by setting the dropdown filters to limit the export "
+"by category, author, date range by month, or publishing status."
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:50
+msgid ""
+"Once generated, your WXR file can be imported by another WordPress site or "
+"by another blogging platform able to access this format."
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:54
+msgid "For more information:"
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:55
+msgid ""
+"<a href=\"https://codex.wordpress.org/Tools_Export_Screen\" target=\"_blank"
+"\">Documentation on Export</a>"
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:56
+msgid ""
+"<a href=\"https://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:135
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:136
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain your "
+"posts, pages, comments, custom fields, categories, and tags."
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:137
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import the content from this site."
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:141
+msgid "Content to export"
+msgstr ""
+
+#: includes/posttypes/import_export_data/export.php:158
+msgid "Download Export Templater"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:97
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:196
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:230
+#: includes/posttypes/import_export_data/import.php:363
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:400
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:443
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:478
+msgid "All done."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:478
+msgid "Have fun!"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:479
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:576
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:595
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:625
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:626
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:636
+msgid "Import author:"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:647
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:650
+msgid "as a new user:"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:658
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:660
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:661
+msgid "- Select -"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:676
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:692
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:708
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:729
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:730
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:732
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:742
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:745
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/posttypes/import_export_data/import.php:749
+msgid "Submit"
+msgstr ""
+
+#: includes/posttypes/import_export_data/parsers.php:42
+#: includes/posttypes/import_export_data/parsers.php:72
+#: includes/posttypes/import_export_data/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/posttypes/import_export_data/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/posttypes/import_export_data/parsers.php:84
+#: includes/posttypes/import_export_data/parsers.php:89
+#: includes/posttypes/import_export_data/parsers.php:306
+#: includes/posttypes/import_export_data/parsers.php:495
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/posttypes/metaboxes/custom-field.php:18
+#: includes/posttypes/portfolio.php:165 includes/shortcodes/functions.php:36
+#: includes/shortcodes/functions.php:64 includes/shortcodes/functions.php:120
+#: includes/shortcodes/shortcodes.php:367
+#: includes/shortcodes/shortcodes.php:894
+#: includes/shortcodes/shortcodes.php:1260
+#: includes/shortcodes/shortcodes.php:1577
+#: includes/shortcodes/shortcodes.php:1951
+#: includes/shortcodes/shortcodes.php:1958
+#: includes/shortcodes/shortcodes.php:1965
+#: includes/shortcodes/shortcodes.php:1975
+#: includes/shortcodes/shortcodes.php:2149
+#: includes/widgets/templates/edit.php:34 includes/widgets/templates/new.php:28
+#: includes/widgets/yolo-post-thumbnail.php:33
+#: includes/widgets/yolo-woo-color-ajax-filter.php:72
+#: includes/widgets/yolo-woo-price-ajax-filter.php:35
+#: includes/widgets/yolo-woo-sort-by-ajax.php:29
+msgid "Title"
+msgstr ""
+
+#: includes/posttypes/metaboxes/custom-field.php:22
+#: includes/posttypes/teammember.php:256 includes/posttypes/teammember.php:268
+#: includes/shortcodes/shortcodes.php:1272
+#: includes/shortcodes/shortcodes.php:1952
+msgid "Description"
+msgstr ""
+
+#: includes/posttypes/metaboxes/custom-field.php:24
+msgid "Remove"
+msgstr ""
+
+#: includes/posttypes/metaboxes/custom-field.php:29
+msgid "Add custom field"
+msgstr ""
+
+#: includes/posttypes/metaboxes/custom-field.php:30
+msgid "Remove All"
+msgstr ""
+
+#: includes/posttypes/metaboxes/spec.php:9
+msgid "Custom Field"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:46 includes/posttypes/portfolio.php:48
+msgid "Portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:47
+msgid "Single Portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:50 includes/posttypes/portfolio.php:52
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:51
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:53
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:54
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:55
+msgid "No Portfolio items found"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:56
+msgid "No Portfolio items found in trash"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:62
+msgid "Display portfolio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:86 includes/posttypes/portfolio.php:88
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:87 includes/shortcodes/shortcodes.php:515
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:89
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:90
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:91
+msgid "View Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:92
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:93
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:94
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:95
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:96
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:97
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:98
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:99
+msgid "Separate Portfolio Categories with commas"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:100
+msgid "Add or remove Portfolio Categories"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:101
+msgid "Choose from the most used Portfolio Categories"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:102
+msgid "No Portfolio Categories found"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:126 includes/shortcodes/shortcodes.php:581
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:127 includes/shortcodes/shortcodes.php:551
+msgid "Tag"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:128
+msgid "Search Types"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:129
+msgid "All Tags"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:130
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:131
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:132
+msgid "Edit Tags"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:133
+msgid "Update Tag"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:134
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:135
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:166
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-01.php:153
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-02.php:100
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-03.php:138
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-04.php:111
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-05.php:118
+#: includes/shortcodes/shortcodes.php:552
+msgid "Category"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:167 includes/posttypes/portfolio.php:226
+msgid "Media Type"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:168
+#: includes/widgets/yolo-post-thumbnail.php:41
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:169 includes/posttypes/teammember.php:132
+#: includes/posttypes/testimonial.php:131
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-01.php:149
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-02.php:96
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-03.php:142
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-04.php:107
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-05.php:114
+#: includes/shortcodes/shortcodes.php:364
+#: includes/widgets/yolo-post-thumbnail.php:42
+msgid "Date"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:230
+msgid "Choose the media type for this Portfolio Item."
+msgstr ""
+
+#: includes/posttypes/portfolio.php:238 includes/shortcodes/shortcodes.php:976
+#: includes/shortcodes/shortcodes.php:1996
+#: includes/term-meta/tax-meta-fields.php:24
+msgid "Image"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:239 includes/shortcodes/shortcodes.php:916
+#: includes/shortcodes/shortcodes.php:1266
+msgid "Link"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:240
+msgid "Gallery"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:241
+msgid "Video"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:245
+msgid "Thumbnail size"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:250 includes/shortcodes/shortcodes.php:313
+#: includes/shortcodes/shortcodes.php:430
+#: includes/shortcodes/shortcodes.php:1901
+#: includes/widgets/yolo-woo-sort-by-ajax.php:60
+msgid "Default"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:251
+msgid "Small Squared"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:252
+msgid "Big Squared"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:253 includes/shortcodes/shortcodes.php:432
+msgid "Landscape"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:254 includes/shortcodes/shortcodes.php:433
+msgid "Portrait"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:260
+msgid "View Detail Style"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:265
+msgid "Inherit from theme options"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:266
+msgid "Fullwidth slide"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:267
+msgid "Vertical images"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:268
+msgid "Small slide"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:269
+msgid "Grid images 2 Columns"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:270
+msgid "Grid images 1 Columns"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:281
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:286
+msgid "Images"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:289
+msgid "Select images gallery for post"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:297
+msgid "Post Format: Video"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:302
+msgid "Video URL or Embeded Code"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:312
+msgid "Post Format: Audio"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:317
+msgid "Audio URL or Embeded Code"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:327
+msgid "Post Format: Quote"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:332
+msgid "Quote"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:337 includes/shortcodes/shortcodes.php:366
+msgid "Author"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:342
+msgid "Author Url"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:351
+msgid "Post Format: Link"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:356 includes/shortcodes/shortcodes.php:983
+#: includes/shortcodes/shortcodes.php:1708
+#: includes/shortcodes/shortcodes.php:2003
+#: includes/shortcodes/shortcodes.php:2109
+msgid "Url"
+msgstr ""
+
+#: includes/posttypes/portfolio.php:361
+msgid "Text"
+msgstr ""
+
+#: includes/posttypes/teammember.php:42 includes/posttypes/teammember.php:44
+msgid "Team members"
+msgstr ""
+
+#: includes/posttypes/teammember.php:43
+msgid "Team member"
+msgstr ""
+
+#: includes/posttypes/teammember.php:46 includes/posttypes/teammember.php:48
+msgid "Add New Team Member"
+msgstr ""
+
+#: includes/posttypes/teammember.php:47
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/posttypes/teammember.php:49
+msgid "View Team Member"
+msgstr ""
+
+#: includes/posttypes/teammember.php:50
+msgid "Search Team Member"
+msgstr ""
+
+#: includes/posttypes/teammember.php:51
+msgid "No Team Member items found"
+msgstr ""
+
+#: includes/posttypes/teammember.php:52
+msgid "No Team Member items found in trash"
+msgstr ""
+
+#: includes/posttypes/teammember.php:58
+msgid "Display members of team work"
+msgstr ""
+
+#: includes/posttypes/teammember.php:82 includes/posttypes/teammember.php:84
+msgid "Team Categories"
+msgstr ""
+
+#: includes/posttypes/teammember.php:83
+msgid "Team Category"
+msgstr ""
+
+#: includes/posttypes/teammember.php:85
+msgid "All Team Categories"
+msgstr ""
+
+#: includes/posttypes/teammember.php:86
+msgid "Edit Team Category"
+msgstr ""
+
+#: includes/posttypes/teammember.php:87
+msgid "View Team Category"
+msgstr ""
+
+#: includes/posttypes/teammember.php:88
+msgid "Update Team Category"
+msgstr ""
+
+#: includes/posttypes/teammember.php:89
+msgid "Add New Team Category"
+msgstr ""
+
+#: includes/posttypes/teammember.php:90
+msgid "New Team Category Name"
+msgstr ""
+
+#: includes/posttypes/teammember.php:91
+msgid "Parent Team Category"
+msgstr ""
+
+#: includes/posttypes/teammember.php:92
+msgid "Parent Team Category:"
+msgstr ""
+
+#: includes/posttypes/teammember.php:93
+msgid "Search Team Categories"
+msgstr ""
+
+#: includes/posttypes/teammember.php:94
+msgid "Popular Team Categories"
+msgstr ""
+
+#: includes/posttypes/teammember.php:95
+msgid "Separate Team Categories with commas"
+msgstr ""
+
+#: includes/posttypes/teammember.php:96
+msgid "Add or remove Team Categories"
+msgstr ""
+
+#: includes/posttypes/teammember.php:97
+msgid "Choose from the most used Team Categories"
+msgstr ""
+
+#: includes/posttypes/teammember.php:98
+msgid "No Team Categories found"
+msgstr ""
+
+#: includes/posttypes/teammember.php:129 includes/posttypes/teammember.php:169
+#: includes/posttypes/testimonial.php:128
+#: includes/shortcodes/shortcodes.php:969
+#: includes/shortcodes/shortcodes.php:1691
+#: includes/shortcodes/shortcodes.php:2092
+msgid "Name"
+msgstr ""
+
+#: includes/posttypes/teammember.php:130 includes/posttypes/teammember.php:174
+#: includes/posttypes/testimonial.php:173
+msgid "Position"
+msgstr ""
+
+#: includes/posttypes/teammember.php:131 includes/posttypes/testimonial.php:130
+msgid "Picture"
+msgstr ""
+
+#: includes/posttypes/teammember.php:164
+msgid "Team Member Information:"
+msgstr ""
+
+#: includes/posttypes/teammember.php:179
+msgid "Phone"
+msgstr ""
+
+#: includes/posttypes/teammember.php:184 includes/posttypes/testimonial.php:129
+#: includes/posttypes/testimonial.php:168 includes/widgets/widgets.php:199
+#: includes/widgets/widgets.php:288
+msgid "Email"
+msgstr ""
+
+#: includes/posttypes/teammember.php:189 includes/posttypes/testimonial.php:178
+msgid "URL"
+msgstr ""
+
+#: includes/posttypes/teammember.php:194
+msgid "Experience"
+msgstr ""
+
+#: includes/posttypes/teammember.php:203
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/posttypes/teammember.php:208
+#: includes/shortcodes/shortcodes.php:1673 includes/widgets/widgets.php:142
+#: includes/widgets/widgets.php:231 includes/widgets/yolo-social-profile.php:39
+msgid "Facebook"
+msgstr ""
+
+#: includes/posttypes/teammember.php:213
+#: includes/shortcodes/shortcodes.php:1683 includes/widgets/widgets.php:139
+#: includes/widgets/widgets.php:228 includes/widgets/yolo-social-profile.php:38
+msgid "Twitter"
+msgstr ""
+
+#: includes/posttypes/teammember.php:218
+msgid "Google +"
+msgstr ""
+
+#: includes/posttypes/teammember.php:223
+#: includes/shortcodes/shortcodes.php:1678 includes/widgets/widgets.php:175
+#: includes/widgets/widgets.php:264 includes/widgets/yolo-social-profile.php:50
+msgid "Instagram"
+msgstr ""
+
+#: includes/posttypes/teammember.php:228 includes/widgets/widgets.php:160
+#: includes/widgets/widgets.php:249
+msgid "Linkedin"
+msgstr ""
+
+#: includes/posttypes/teammember.php:233 includes/widgets/widgets.php:166
+#: includes/widgets/widgets.php:255 includes/widgets/yolo-social-profile.php:46
+msgid "Flickr"
+msgstr ""
+
+#: includes/posttypes/teammember.php:238 includes/widgets/widgets.php:169
+#: includes/widgets/widgets.php:258 includes/widgets/yolo-social-profile.php:48
+msgid "Pinterest"
+msgstr ""
+
+#: includes/posttypes/teammember.php:244 includes/widgets/widgets.php:154
+#: includes/widgets/widgets.php:243 includes/widgets/yolo-social-profile.php:42
+msgid "Tumblr"
+msgstr ""
+
+#: includes/posttypes/teammember.php:251
+msgid "Specialty"
+msgstr ""
+
+#: includes/posttypes/teammember.php:263
+msgid "Certificates"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:40 includes/posttypes/testimonial.php:42
+msgid "Testimonials"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:41
+msgid "Testimonial"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:44 includes/posttypes/testimonial.php:46
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:45
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:47
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:48
+msgid "Search Testimonial"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:49
+msgid "No Testimonial items found"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:50
+msgid "No Testimonial items found in trash"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:60
+msgid "Display client's testimonials"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:81 includes/posttypes/testimonial.php:83
+msgid "Testimonial Categories"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:82 includes/shortcodes/shortcodes.php:671
+msgid "Testimonial Category"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:84
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:85
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:86
+msgid "View Testimonial Category"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:87
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:88
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:89
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:90
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:91
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:92
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:93
+msgid "Popular Testimonial Categories"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:94
+msgid "Separate Testimonial Categories with commas"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:95
+msgid "Add or remove Testimonial Categories"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:96
+msgid "Choose from the most used Testimonial Categories"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:97
+msgid "No Testimonial Categories found"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:163
+msgid "Testimonial Information:"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:183
+msgid "Special"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:188
+msgid "Rating"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:191
+msgid "no rating"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:192
+msgid "0 star"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:193
+msgid "0.5 star"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:194
+msgid "1 star"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:195
+msgid "1.5 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:196
+msgid "2 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:197
+msgid "2.5 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:198
+msgid "3 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:199
+msgid "3.5 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:200
+msgid "4 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:201
+msgid "4.5 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:202
+msgid "5 stars"
+msgstr ""
+
+#: includes/posttypes/testimonial.php:207
+msgid "Background Image"
+msgstr ""
+
+#: includes/shortcodes/banner-slider/banner-slider.php:64
+msgid "Please select banner slider!"
+msgstr ""
+
+#: includes/shortcodes/banner-slider/templates/style_1.php:24
+#: includes/shortcodes/banner-slider/templates/style_2.php:24
+msgid "Please select Image banner!"
+msgstr ""
+
+#: includes/shortcodes/banner/banner.php:74
+msgid "Please select image for banner!"
+msgstr ""
+
+#: includes/shortcodes/clients/clients.php:65
+msgid "Please select clients!"
+msgstr ""
+
+#: includes/shortcodes/clients/templates/style_1.php:26
+#: includes/shortcodes/clients/templates/style_2.php:26
+#: includes/shortcodes/clients/templates/style_3.php:26
+msgid "Please select logo!"
+msgstr ""
+
+#: includes/shortcodes/countdown/countdown.php:69
+msgid "Please select datetime!"
+msgstr ""
+
+#: includes/shortcodes/countdown/templates/number.php:19
+#: includes/shortcodes/countdown/templates/timecircle.php:21
+msgid "Days"
+msgstr ""
+
+#: includes/shortcodes/countdown/templates/number.php:20
+#: includes/shortcodes/countdown/templates/timecircle.php:22
+msgid "Hours"
+msgstr ""
+
+#: includes/shortcodes/countdown/templates/number.php:21
+#: includes/shortcodes/countdown/templates/timecircle.php:23
+msgid "Minutes"
+msgstr ""
+
+#: includes/shortcodes/countdown/templates/number.php:22
+#: includes/shortcodes/countdown/templates/timecircle.php:24
+msgid "Seconds"
+msgstr ""
+
+#: includes/shortcodes/counter/counter.php:69
+msgid "Please insert counter number"
+msgstr ""
+
+#: includes/shortcodes/functions.php:34 includes/shortcodes/functions.php:67
+#: includes/shortcodes/functions.php:123
+msgid "Id"
+msgstr ""
+
+#: includes/shortcodes/functions.php:38 includes/shortcodes/functions.php:59
+#: includes/shortcodes/functions.php:115
+msgid "Sku"
+msgstr ""
+
+#: includes/shortcodes/functions.php:246 includes/widgets/yolo-widget.php:211
+msgid "Click to browse icon"
+msgstr ""
+
+#: includes/shortcodes/functions.php:246
+msgid "Browse Icon"
+msgstr ""
+
+#: includes/shortcodes/functions.php:273 includes/shortcodes/functions.php:297
+#: includes/shortcodes/functions.php:409 includes/shortcodes/functions.php:439
+#: includes/shortcodes/functions.php:466 includes/shortcodes/functions.php:493
+#: includes/shortcodes/functions.php:525 includes/shortcodes/functions.php:552
+#: includes/shortcodes/functions.php:583 includes/shortcodes/functions.php:609
+#: includes/shortcodes/functions.php:639
+msgid "Select All"
+msgstr ""
+
+#: includes/shortcodes/functions.php:323
+msgid "Select a product"
+msgstr ""
+
+#: includes/shortcodes/gmaps/gmaps.php:79
+msgid "Please select GMaps!"
+msgstr ""
+
+#: includes/shortcodes/icon-box/icon-box.php:111
+msgid "Please select Icon Box!"
+msgstr ""
+
+#: includes/shortcodes/icon-footer/icon-footer.php:69
+msgid "Please select icon footer!"
+msgstr ""
+
+#: includes/shortcodes/icon-footer/templates/style_1.php:26
+#: includes/shortcodes/icon-footer/templates/style_2.php:31
+#: includes/shortcodes/icon-footer/templates/style_3.php:29
+msgid "Please select Icon!"
+msgstr ""
+
+#: includes/shortcodes/our-process/our-process.php:60
+msgid "Please select Process"
+msgstr ""
+
+#: includes/shortcodes/our-process/templates/style_1.php:24
+#: includes/shortcodes/our-process/templates/style_2.php:24
+msgid "Please select Process!"
+msgstr ""
+
+#: includes/shortcodes/posttypes/portfolio/templates/filter/filter-category.php:53
+#: includes/shortcodes/posttypes/portfolio/templates/filter/filter-tag.php:54
+#: includes/widgets/yolo-woo-price-ajax-filter.php:170
+#: includes/widgets/yolo-woo-price-ajax-filter.php:172
+msgid "All"
+msgstr "Tất cả"
+
+#: includes/shortcodes/posttypes/portfolio/templates/portfolio-default.php:156
+#: includes/shortcodes/posttypes/portfolio/templates/portfolio-landscape.php:157
+#: includes/shortcodes/posttypes/portfolio/templates/portfolio-masonry.php:156
+#: includes/shortcodes/posttypes/portfolio/templates/portfolio-packery.php:178
+#: includes/shortcodes/posttypes/portfolio/templates/portfolio-portrait.php:156
+#: includes/shortcodes/posttypes/portfolio/templates/portfolio-squared.php:158
+#: includes/shortcodes/shortcodes.php:595
+msgid "Load more"
+msgstr "Tải thêm"
+
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-01.php:157
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-02.php:104
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-03.php:146
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-04.php:115
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-05.php:122
+msgid "Tags"
+msgstr "Thẻ"
+
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-01.php:162
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-02.php:109
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-03.php:151
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-04.php:120
+#: includes/shortcodes/posttypes/portfolio/templates/single/detail-05.php:127
+msgid "Follow Us"
+msgstr "Theo dõi chúng tôi"
+
+#: includes/shortcodes/posttypes/portfolio/templates/single/related.php:63
+msgctxt "Previous post link"
+msgid ""
+"<div class=\"post-navigation-left\"><i class=\"post-navigation-icon fa fa-"
+"long-arrow-left\"></i> </div> <div class=\"post-navigation-content\"> <div "
+"class=\"post-navigation-title\">%title </div> </div> "
+msgstr ""
+
+#: includes/shortcodes/posttypes/portfolio/templates/single/related.php:65
+msgctxt "Next post link"
+msgid ""
+"<div class=\"post-navigation-content\"> <div class=\"post-navigation-title\">"
+"%title</div></div> <div class=\"post-navigation-right\"><i class=\"post-"
+"navigation-icon fa fa-long-arrow-right\"></i> </div>"
+msgstr ""
+
+#: includes/shortcodes/posttypes/portfolio/templates/single/related.php:71
+msgid "Related Projects"
+msgstr ""
+
+#: includes/shortcodes/posttypes/teammember/teammember.php:100
+#: includes/shortcodes/posttypes/testimonial/testimonial.php:99
+#: includes/shortcodes/recent-news-footer/recent-news-footer.php:88
+#: includes/shortcodes/recent-news/recent-news.php:109
+msgid "No item found"
+msgstr ""
+
+#: includes/shortcodes/recent-news/templates/home_2.php:32
+#: includes/shortcodes/recent-news/templates/home_3.php:28
+msgid "Post by "
+msgstr ""
+
+#: includes/shortcodes/recent-news/templates/home_2.php:36
+msgid "Read more..."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:127
+msgid "CSS Animation"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:130
+#: includes/shortcodes/shortcodes.php:710
+#: includes/shortcodes/shortcodes.php:781
+#: includes/shortcodes/shortcodes.php:1039
+#: includes/shortcodes/shortcodes.php:1402
+#: includes/shortcodes/shortcodes.php:2016
+msgid "No"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:131
+msgid "Fade In"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:132
+msgid "Fade Top to Bottom"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:133
+msgid "Fade Bottom to Top"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:134
+msgid "Fade Left to Right"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:135
+msgid "Fade Right to Left"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:136
+msgid "Bounce In"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:137
+msgid "Bounce Top to Bottom"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:138
+msgid "Bounce Bottom to Top"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:139
+msgid "Bounce Left to Right"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:140
+msgid "Bounce Right to Left"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:141
+msgid "Zoom In"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:142
+msgid "Flip Vertical"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:143
+msgid "Flip Horizontal"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:144
+msgid "Bounce"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:145
+msgid "Flash"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:146
+msgid "Shake"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:147
+msgid "Pulse"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:148
+msgid "Swing"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:149
+msgid "Rubber band"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:150
+msgid "Wobble"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:151
+msgid "Tada"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:152
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:153
+#: includes/shortcodes/shortcodes.php:188
+#: includes/shortcodes/shortcodes.php:223
+msgid "Animation Settings"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:158
+msgid "Animation Duration"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:161
+msgid ""
+"Duration in seconds. You can use decimal points in the value. Use this field "
+"to specify the amount of time the animation plays. <em>The default value "
+"depends on the animation, leave blank to use the default.</em>"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:193
+msgid "Animation Delay"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:196
+msgid ""
+"Delay in seconds. You can use decimal points in the value. Use this field to "
+"delay the animation for a few seconds, this is helpful if you want to chain "
+"different effects one after another above the fold."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:228
+#: includes/shortcodes/shortcodes.php:1916
+msgid "Extra class name"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:230
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:234
+msgid "Informational"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:235
+msgid "Warning"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:236
+msgid "Success"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:237
+msgid "Error"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:238
+msgid "Informational Classic"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:239
+msgid "Warning Classic"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:240
+msgid "Success Classic"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:241
+msgid "Error Classic"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:248
+msgid "Yolo Blog"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:252
+msgid "Display post as list, grid"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:256
+#: includes/shortcodes/shortcodes.php:649
+#: includes/shortcodes/shortcodes.php:872
+#: includes/shortcodes/shortcodes.php:1086
+#: includes/shortcodes/shortcodes.php:1324
+msgid "Layout Style"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:257
+msgid "Choose layout style from drop down list styles."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:260
+msgid "List (Larger Image)"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:261
+msgid "List (Medium Image)"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:262
+#: includes/shortcodes/shortcodes.php:1009
+#: includes/shortcodes/shortcodes.php:1340
+msgid "Grid"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:263
+#: includes/shortcodes/shortcodes.php:435
+msgid "Masonry"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:270
+#: includes/shortcodes/shortcodes.php:491
+#: includes/widgets/yolo-woo-color-ajax-filter.php:77
+msgid "Columns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:273
+#: includes/shortcodes/shortcodes.php:494
+msgid "2 columns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:274
+#: includes/shortcodes/shortcodes.php:495
+msgid "3 columns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:275
+#: includes/shortcodes/shortcodes.php:496
+msgid "4 columns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:286
+#: includes/shortcodes/shortcodes.php:618
+msgid "Padding"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:296
+msgid "Narrow Category"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:297
+msgid "Select categories to display post on your page."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:302
+msgid "Total items"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:303
+msgid "Set max limit for items or enter -1 to display all (limited to 1000)."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:309
+msgid "Display Type"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:312
+msgid "Show all"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:314
+msgid "Load More"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:315
+msgid "Infinity Scroll"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:326
+msgid "Items per page"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:327
+msgid "Number of items to show per page."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:338
+msgid "Navigation Alignment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:341
+#: includes/shortcodes/shortcodes.php:1657
+msgid "Left"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:342
+#: includes/shortcodes/shortcodes.php:1658
+msgid "Center"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:343
+#: includes/shortcodes/shortcodes.php:1659
+msgid "Right"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:353
+#: includes/shortcodes/shortcodes.php:699
+msgid "Excerpt length"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:361
+#: includes/widgets/yolo-post-thumbnail.php:56
+msgid "Order by"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:365
+msgid "Order by post ID"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:368
+msgid "Last modified date"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:369
+msgid "Post/page parent ID"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:370
+msgid "Number of comments"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:371
+msgid "Menu order/Page Order"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:372
+msgid "Meta value"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:373
+msgid "Meta value number"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:374
+msgid "Random order"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:376
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:377
+#: includes/shortcodes/shortcodes.php:385
+#: includes/shortcodes/shortcodes.php:399
+msgid "Data Settings"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:383
+msgid "Sort Order"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:387
+#: includes/shortcodes/shortcodes.php:611
+#: includes/shortcodes/shortcodes.php:693
+#: includes/shortcodes/shortcodes.php:1378
+msgid "Descending"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:388
+#: includes/shortcodes/shortcodes.php:612
+#: includes/shortcodes/shortcodes.php:694
+#: includes/shortcodes/shortcodes.php:1379
+msgid "Ascending"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:391
+msgid "Select sorting order."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:396
+msgid "Meta key"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:398
+msgid "Input meta key for grid ordering."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:418
+msgid "Yolo Portfolio"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:421
+msgid "Display Portfolio projects"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:426
+msgid "Thumbnail type"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:431
+msgid "Squared"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:434
+msgid "Packery (Thumbnail size set in item setting)"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:441
+msgid "Portfolio Title"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:445
+#: includes/shortcodes/shortcodes.php:538
+#: includes/shortcodes/shortcodes.php:594
+msgid "None"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:446
+msgid "Show in Top"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:447
+msgid "Show in Bottom"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:453
+msgid "Overlay Style"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:457
+#: includes/shortcodes/shortcodes.php:1119
+#: includes/shortcodes/shortcodes.php:1136
+#: includes/shortcodes/shortcodes.php:1152
+#: includes/shortcodes/shortcodes.php:1168
+#: includes/shortcodes/shortcodes.php:1183
+#: includes/shortcodes/shortcodes.php:1699
+#: includes/shortcodes/shortcodes.php:2100
+msgid "Icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:458
+msgid "Icon and Title"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:459
+msgid "Icon, Title and Category"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:460
+msgid "Title and Category"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:461
+msgid "Title, Category and Link button"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:466
+msgid "Overlay Effect"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:470
+msgid "Effect 1"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:471
+msgid "Effect 2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:472
+msgid "Effect 3"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:473
+msgid "Effect 4"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:474
+msgid "Effect 5"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:480
+msgid "Hover Dir Effect"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:484
+msgid "On"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:485
+msgid "Off"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:497
+msgid "5 columns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:498
+msgid "6 columns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:504
+#: includes/shortcodes/shortcodes.php:661
+#: includes/shortcodes/shortcodes.php:1295
+msgid "Source"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:508
+#: includes/shortcodes/shortcodes.php:665
+#: includes/shortcodes/shortcodes.php:1299
+msgid "From Category"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:509
+msgid "From Portfolio IDs"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:525
+msgid "Select Portfolio"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:534
+msgid "Show Filter"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:539
+msgid "Show in left"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:540
+msgid "Show in center"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:541
+msgid "Show in right"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:547
+msgid "Filter By (Filter at front-end)"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:563
+msgid "Filter Style"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:572
+#: includes/shortcodes/shortcodes.php:875
+#: includes/shortcodes/shortcodes.php:996
+#: includes/shortcodes/shortcodes.php:1089
+#: includes/shortcodes/shortcodes.php:1328
+#: includes/shortcodes/shortcodes.php:1564
+#: includes/shortcodes/shortcodes.php:1613
+#: includes/shortcodes/shortcodes.php:1829
+#: includes/shortcodes/shortcodes.php:1940
+#: includes/shortcodes/shortcodes.php:2050
+#: includes/shortcodes/shortcodes.php:2139
+msgid "Style 1"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:573
+#: includes/shortcodes/shortcodes.php:876
+#: includes/shortcodes/shortcodes.php:997
+#: includes/shortcodes/shortcodes.php:1090
+#: includes/shortcodes/shortcodes.php:1329
+#: includes/shortcodes/shortcodes.php:1565
+#: includes/shortcodes/shortcodes.php:1614
+#: includes/shortcodes/shortcodes.php:1830
+#: includes/shortcodes/shortcodes.php:1941
+#: includes/shortcodes/shortcodes.php:2051
+msgid "Style 2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:574
+#: includes/shortcodes/shortcodes.php:877
+#: includes/shortcodes/shortcodes.php:998
+#: includes/shortcodes/shortcodes.php:1091
+#: includes/shortcodes/shortcodes.php:1330
+#: includes/shortcodes/shortcodes.php:1566
+#: includes/shortcodes/shortcodes.php:1615
+#: includes/shortcodes/shortcodes.php:1831
+#: includes/shortcodes/shortcodes.php:2052
+msgid "Style 3"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:591
+msgid "Show Paging"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:602
+msgid "Number of item (or number of item per page if choose show paging)"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:608
+#: includes/shortcodes/shortcodes.php:690
+#: includes/shortcodes/shortcodes.php:1374
+msgid "Order Post Date By"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:621
+msgid "No padding"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:622
+msgid "5 px"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:623
+msgid "10 px"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:624
+msgid "15 px"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:625
+msgid "20 px"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:641
+msgid "Yolo Testimonial"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:652
+msgid "Carousel"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:653
+msgid "Carousel 2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:654
+msgid "Carousel 3"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:655
+msgid "Carousel 4"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:666
+msgid "From Testimonial IDs"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:681
+msgid "Select Testimonial"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:706
+#: includes/shortcodes/shortcodes.php:777
+#: includes/shortcodes/shortcodes.php:1031
+#: includes/shortcodes/shortcodes.php:1398
+#: includes/shortcodes/shortcodes.php:2012
+msgid "AutoPlay"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:709
+#: includes/shortcodes/shortcodes.php:780
+#: includes/shortcodes/shortcodes.php:1038
+#: includes/shortcodes/shortcodes.php:1401
+#: includes/shortcodes/shortcodes.php:2015
+msgid "Yes"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:716
+#: includes/shortcodes/shortcodes.php:791
+#: includes/shortcodes/shortcodes.php:1045
+#: includes/shortcodes/shortcodes.php:1412
+msgid "Slide Duration (ms)"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:733
+msgid "Yolo Recent News"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:736
+#: includes/shortcodes/shortcodes.php:1730
+msgid "Display latest post or selected post"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:741
+#: includes/shortcodes/shortcodes.php:845
+#: includes/shortcodes/shortcodes.php:992
+#: includes/shortcodes/shortcodes.php:1609
+#: includes/shortcodes/shortcodes.php:1735
+#: includes/shortcodes/shortcodes.php:1936
+#: includes/shortcodes/shortcodes.php:2046
+msgid "Choose layout"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:745
+msgid "Home V1"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:746
+msgid "Home V2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:747
+msgid "Home V3"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:748
+msgid "Home V4"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:749
+msgid "Home V5"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:750
+msgid "Home V6"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:751
+msgid "Home V7"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:756
+#: includes/shortcodes/shortcodes.php:1755
+msgid "Select Categories"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:762
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:766
+msgid "2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:767
+msgid "3"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:768
+msgid "4"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:803
+#: includes/shortcodes/shortcodes.php:1786
+msgid "Posts per page"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:813
+#: includes/shortcodes/shortcodes.php:1796
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:814
+#: includes/shortcodes/shortcodes.php:1797
+msgid "Insert number of words to show in excerpt."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:830
+msgid "Yolo Countdown"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:833
+msgid "Display Countdown timer"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:839
+msgid "Select Datetime"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:849
+#: includes/shortcodes/shortcodes.php:1584
+msgid "Number"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:850
+msgid "Circle"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:864
+msgid "Yolo Banner"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:867
+msgid "Display banner"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:878
+#: includes/shortcodes/shortcodes.php:1092
+#: includes/shortcodes/shortcodes.php:1616
+#: includes/shortcodes/shortcodes.php:2053
+msgid "Style 4"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:879
+#: includes/shortcodes/shortcodes.php:1093
+msgid "Style 5"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:884
+msgid "Border Color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:886
+msgid "Select custom border color."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:905
+#: includes/shortcodes/shortcodes.php:1953
+#: includes/shortcodes/shortcodes.php:1960
+#: includes/shortcodes/shortcodes.php:1967
+#: includes/shortcodes/shortcodes.php:1989
+msgid "Button Text"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:923
+msgid "Banner's Image"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:938
+msgid "Yolo Clients"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:942
+msgid "Display client logos"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:946
+msgid "Clients"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:948
+msgid "Enter values for client - name, image and url."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:951
+msgid "Themeforest"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:956
+msgid "Codecanyon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:961
+msgid "Photodune"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:971
+msgid "Enter name of client."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:978
+msgid "Please select client' logo."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:985
+msgid "Please insert client' link."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1004
+#: includes/shortcodes/shortcodes.php:1335
+msgid "Choose style"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1008
+#: includes/shortcodes/shortcodes.php:1339
+msgid "Slider"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1015
+#: includes/shortcodes/shortcodes.php:1346
+msgid "Choose columns for Grid"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1023
+#: includes/shortcodes/shortcodes.php:1354
+msgid "Column 2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1024
+#: includes/shortcodes/shortcodes.php:1355
+msgid "Column 3"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1025
+#: includes/shortcodes/shortcodes.php:1356
+msgid "Column 4"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1026
+#: includes/shortcodes/shortcodes.php:1357
+msgid "Column 5"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1057
+msgid "Logo per slide"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1078
+msgid "Yolo Icon Box"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1081
+msgid "Display Icon box from libraries"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1094
+msgid "Style 6"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1095
+msgid "Style 7"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1096
+msgid "Style 8"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1097
+msgid "Style 9"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1098
+msgid "Style 10"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1099
+msgid "Style 11"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1104
+msgid "Icon library"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1106
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1107
+msgid "Open Iconic"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1108
+msgid "Typicons"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1109
+msgid "Entypo"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1110
+msgid "Linecons"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1111
+msgid "Custom Image Icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1115
+msgid "Select icon library."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1132
+#: includes/shortcodes/shortcodes.php:1148
+#: includes/shortcodes/shortcodes.php:1164
+#: includes/shortcodes/shortcodes.php:1195
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1199
+#: includes/shortcodes/shortcodes.php:1571
+msgid "Select Image Icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1205
+#: includes/shortcodes/shortcodes.php:1237
+#: includes/shortcodes/shortcodes.php:1573
+msgid "Select Image Icon."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1209
+#: includes/shortcodes/shortcodes.php:1621
+msgid "Icon color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1211
+#: includes/shortcodes/shortcodes.php:1221
+msgid "Custom color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1212
+msgid "Select icon color."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1223
+#: includes/shortcodes/shortcodes.php:1252
+msgid "Select custom icon color."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1231
+msgid "Select Background Image Icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1241
+msgid "Remove line bottom Icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1250
+msgid "Background Icon Box Color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1287
+msgid "Yolo Team Member"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1290
+msgid "Display our team member"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1300
+msgid "From Member IDs"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1305
+msgid "Teammember Category"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1315
+msgid "Select Teammember"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1362
+msgid "Members per slide"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1384
+msgid "Background Images"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1388
+#: includes/shortcodes/shortcodes.php:1749
+msgid "White"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1389
+msgid "Gray"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1433
+msgid "Yolo Google Maps"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1436
+msgid "Display Google Maps with information"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1442
+msgid "Choose style layout"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1445
+msgid "Show Map"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1446
+msgid "Toggle Button"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1452
+msgid "Choose style map"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1455
+msgid "Basic"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1456
+msgid "Light green"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1457
+msgid "Shades of Grey"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1458
+msgid "Ultra Light"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1464
+msgid "Info window title"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1466
+#: includes/shortcodes/shortcodes.php:1474
+msgid "My address"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1472
+msgid "Info window image"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1480
+msgid "Map height"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1482
+msgid "400px"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1483
+msgid "Example: 500px"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1488
+msgid "Latitude"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1490
+msgid "40.843292"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1491
+#: includes/shortcodes/shortcodes.php:1499
+msgid "Get longtitude from here: https://www.google.com/maps"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1496
+msgid "Longitude"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1498
+msgid "-73.864512"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1504
+msgid "Zoom"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1506
+msgid "12"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1507
+msgid "Example : 20 for a close view, 5 for a far view"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1511
+msgid "Image to replace marker"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1514
+msgid "Select the image to replace the original map marker (optional)."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1527
+msgid "Yolo Widget"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1532
+msgid "Display widgets."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1536
+msgid "Sidebar"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1538
+msgid "Select widget area to display."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1551
+msgid "Yolo Counter"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1555
+msgid "Display Counter Statistical"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1559
+#: includes/shortcodes/shortcodes.php:1824
+#: includes/shortcodes/shortcodes.php:2134
+#: includes/widgets/yolo-post-thumbnail.php:38
+msgid "Style"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1601
+msgid "Yolo Icon Footer"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1605
+msgid "Display Icon Footer"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1631
+msgid "Icon size"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1633
+msgid "Enter icon size (Example: 18px) of Social"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1643
+msgid "Title color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1653
+msgid "Icon Footer Alignment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1668
+msgid "Icon Footer"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1670
+msgid "Enter values for Icon Footer - name, icon and url."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1693
+#: includes/shortcodes/shortcodes.php:2094
+msgid "Enter name or title of Icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1701
+#: includes/shortcodes/shortcodes.php:2102
+msgid "Please select Footer' Icon."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1710
+#: includes/shortcodes/shortcodes.php:2111
+msgid "Please insert Icon' link."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1727
+msgid "Yolo Recent News Footer"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1739
+msgid "Footer V1"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1740
+msgid "Footer V2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1745
+msgid "Choose color for the text "
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1750
+msgid "Dark"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1761
+msgid "Show Author"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1767
+msgid "Show Date"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1773
+msgid "Show Comment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1779
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1816
+msgid "Yolo Video Player"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1820
+msgid "Display Video Player with Content"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1836
+msgid "Heading"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1838
+msgid "Enter text for heading line."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1845
+msgid "Heading Color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1854
+msgid "Subheading"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1856
+msgid "Enter text for subheading line."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1863
+msgid "Subheading Color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1872
+msgid "Icon Color"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1880
+msgid "Video URL"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1882
+msgid ""
+"Enter Video or Youtube link. Example https://vimeo.com/15801179 or https://"
+"www.youtube.com/watch?v=n3MMERy4nWY"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1888
+msgid "Height"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1890
+msgid "Enter video height(px). Example: 700"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1897
+msgid "Width"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1902
+msgid "Full width"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1908
+msgid "Background image"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1928
+msgid "Yolo Banner Slider"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1932
+msgid "Display Banner Slider"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1946
+msgid "Banner Slider"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1948
+msgid "Enter values for Banner Slider - name, image and url."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1959
+#: includes/shortcodes/shortcodes.php:1966
+#: includes/shortcodes/shortcodes.php:1982
+msgid "Sub-Title"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1977
+msgid "Enter title of slider."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1984
+#: includes/shortcodes/shortcodes.php:1991
+msgid "Enter sub-title of slider."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1998
+msgid "Please select slider' image."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2005
+msgid "Please insert slider' link."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2022
+msgid "Slider Duration (ms)"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2038
+msgid "Yolo Our Process"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2042
+msgid "Display Social Icon"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2058
+msgid "Seclect number step"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2062
+msgid "3 Step"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2063
+msgid "4 Step"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2064
+msgid "5 Step"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2069
+msgid "Our process"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2071
+msgid "Enter values for Our Process - name, icon and url."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2074
+msgid "Step 1"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2079
+msgid "Step 2"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2084
+msgid "Step 3"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2126
+msgid "Yolo Pricing"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2130
+msgid "Display pricing"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2144
+msgid "Show Recommend"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2151
+msgid "Enter text used as title of plan (or pricing)."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2156
+msgid "Price"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2158
+msgid "Enter values for pricing  - price"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2163
+msgid "Sub Title"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2165
+msgid "Enter sub title text used as title of plan (or pricing)."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2170
+msgid "Values"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2172
+msgid "Enter values for pricing  - price, title and etc..."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2175
+msgid "Integrated campaigns"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2176
+#: includes/shortcodes/shortcodes.php:2180
+#: includes/shortcodes/shortcodes.php:2184
+msgid "Active Content"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2179
+msgid "Service design"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2183
+msgid "In-store digital"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2190
+#: includes/term-meta/tax-meta-fields.php:32
+#: includes/widgets/yolo-social-profile.php:22
+msgid "Label"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2192
+msgid "Enter text used as value of Label."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2197
+msgid "Choose Active / Disable Content"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2199
+msgid "Please select"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2202
+msgid "Active"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2203
+msgid "Disable"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2210
+msgid "Button"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2212
+msgid "Text on the button."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2221
+msgid "Button link"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2223
+msgid "Enter URL if you want this button to have a link."
+msgstr ""
+
+#: includes/shortcodes/widget/widget.php:46
+msgid "Please select Widget!"
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:236
+msgid "Revolution Slider is not Installed or Activated."
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:236
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:250
+msgid "-- Choose Icon --"
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:274
+msgid "Upload / Add image"
+msgstr ""
+
+#: includes/term-meta/include/term-meta-generator-class.php:276
+msgid "Remove image"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:15
+#: includes/widgets/yolo-woo-color-ajax-filter.php:37
+#: includes/widgets/yolo-woo-color-ajax-filter.php:122
+msgid "Color"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:16
+msgid "Choose a color"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:25
+msgid "Choose a Image"
+msgstr ""
+
+#: includes/term-meta/tax-meta-fields.php:33
+msgid "The text of label (should be same as name)"
+msgstr ""
+
+#: includes/widgets/widgets.php:145 includes/widgets/widgets.php:234
+#: includes/widgets/yolo-social-profile.php:40
+msgid "Dribbble"
+msgstr ""
+
+#: includes/widgets/widgets.php:148 includes/widgets/widgets.php:237
+msgid "Youtube"
+msgstr ""
+
+#: includes/widgets/widgets.php:151 includes/widgets/widgets.php:240
+#: includes/widgets/yolo-social-profile.php:41
+msgid "Vimeo"
+msgstr ""
+
+#: includes/widgets/widgets.php:157 includes/widgets/widgets.php:246
+#: includes/widgets/yolo-social-profile.php:43
+msgid "Skype"
+msgstr ""
+
+#: includes/widgets/widgets.php:163 includes/widgets/widgets.php:252
+msgid "GooglePlus"
+msgstr ""
+
+#: includes/widgets/widgets.php:172 includes/widgets/widgets.php:261
+#: includes/widgets/yolo-social-profile.php:49
+msgid "Foursquare"
+msgstr ""
+
+#: includes/widgets/widgets.php:178 includes/widgets/widgets.php:267
+#: includes/widgets/yolo-social-profile.php:51
+msgid "GitHub"
+msgstr ""
+
+#: includes/widgets/widgets.php:181 includes/widgets/widgets.php:270
+#: includes/widgets/yolo-social-profile.php:52
+msgid "Xing"
+msgstr ""
+
+#: includes/widgets/widgets.php:184 includes/widgets/widgets.php:273
+#: includes/widgets/yolo-social-profile.php:53
+msgid "Behance"
+msgstr ""
+
+#: includes/widgets/widgets.php:187 includes/widgets/widgets.php:276
+#: includes/widgets/yolo-social-profile.php:54
+msgid "Deviantart"
+msgstr ""
+
+#: includes/widgets/widgets.php:190 includes/widgets/widgets.php:279
+#: includes/widgets/yolo-social-profile.php:55
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/widgets/widgets.php:193 includes/widgets/widgets.php:282
+#: includes/widgets/yolo-social-profile.php:56
+msgid "Yelp"
+msgstr ""
+
+#: includes/widgets/widgets.php:196
+msgid "rss"
+msgstr ""
+
+#: includes/widgets/widgets.php:285
+msgid "Rss"
+msgstr ""
+
+#: includes/widgets/yolo-myaccount.php:15
+msgid "My Account Link Widget"
+msgstr ""
+
+#: includes/widgets/yolo-myaccount.php:17
+msgid "YOLO My Account"
+msgstr ""
+
+#: includes/widgets/yolo-myaccount.php:22
+msgid "Login Text"
+msgstr ""
+
+#: includes/widgets/yolo-myaccount.php:27
+msgid "Logout Text"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:16
+msgid "Widget show post with thumbnail."
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:18
+msgid "YOLO Post Thumbnail"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:40
+msgid "Full-width"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:51
+msgid "Number of posts to show"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:58
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:59
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:60
+msgid "Most Commented"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:66
+msgid "Categories"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:67
+msgid "Select a category or leave blank for all"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:73
+msgid "Hide author in post meta info"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:78
+msgid "Hide date in post meta info"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:83
+msgid "Hide comment in post meta info"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:163
+msgid "%"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:165
+msgid "0"
+msgstr ""
+
+#: includes/widgets/yolo-post-thumbnail.php:167
+msgid "1"
+msgstr ""
+
+#: includes/widgets/yolo-product-search.php:22
+msgid "Display a product sorting list."
+msgstr ""
+
+#: includes/widgets/yolo-product-search.php:24
+msgid "YOLO Product Search"
+msgstr ""
+
+#: includes/widgets/yolo-product-search.php:29
+#: includes/widgets/yolo-social-profile.php:27
+msgid "Type"
+msgstr ""
+
+#: includes/widgets/yolo-product-search.php:31
+msgid "Standard Search"
+msgstr ""
+
+#: includes/widgets/yolo-product-search.php:32
+msgid "Ajax Search"
+msgstr ""
+
+#: includes/widgets/yolo-product-search.php:62
+msgid "Please type at least 3 characters to search"
+msgstr ""
+
+#: includes/widgets/yolo-product-search.php:64
+msgid "Search"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:15
+msgid "Get social icon from theme option to display."
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:17
+msgid "YOLO Social Profile"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:29
+msgid "No Border"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:30
+msgid "Bordered"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:35
+msgid "Select social profiles"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:44
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:45
+msgid "Google+"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:47
+msgid "YouTube"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:57
+msgid "RSS Feed"
+msgstr ""
+
+#: includes/widgets/yolo-social-profile.php:58
+msgid "Email address"
+msgstr ""
+
+#: includes/widgets/yolo-vertical-menu.php:15
+msgid "Vertical Menu Widget"
+msgstr ""
+
+#: includes/widgets/yolo-vertical-menu.php:17
+msgid "YOLO Vertical Menu"
+msgstr ""
+
+#: includes/widgets/yolo-vertical-menu.php:81
+msgid "Enter your title"
+msgstr ""
+
+#: includes/widgets/yolo-vertical-menu.php:86
+msgid "Menu"
+msgstr ""
+
+#: includes/widgets/yolo-widget.php:211 includes/widgets/yolo-widget.php:223
+msgid "Browse..."
+msgstr ""
+
+#: includes/widgets/yolo-widget.php:223
+msgid "Click to browse image"
+msgstr ""
+
+#: includes/widgets/yolo-woo-color-ajax-filter.php:17
+msgid ""
+"Show color list to filter for shop page. This widget use for shop ajax page. "
+msgstr ""
+
+#: includes/widgets/yolo-woo-color-ajax-filter.php:19
+msgid "YOLO WooCommerce Color Ajax Filter"
+msgstr ""
+
+#: includes/widgets/yolo-woo-color-ajax-filter.php:108
+msgid "Query type"
+msgstr ""
+
+#: includes/widgets/yolo-woo-color-ajax-filter.php:110
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/yolo-woo-color-ajax-filter.php:111
+msgid "OR"
+msgstr ""
+
+#: includes/widgets/yolo-woo-color-ajax-filter.php:122
+msgid "Term"
+msgstr ""
+
+#: includes/widgets/yolo-woo-price-ajax-filter.php:28
+msgid ""
+"Show price range to sort for shop page. This widget use for shop ajax page."
+msgstr ""
+
+#: includes/widgets/yolo-woo-price-ajax-filter.php:30
+msgid "YOLO WooCommerce Price Ajax Filter"
+msgstr ""
+
+#: includes/widgets/yolo-woo-price-ajax-filter.php:34
+msgid "Filter by price"
+msgstr ""
+
+#: includes/widgets/yolo-woo-price-ajax-filter.php:43
+msgid "Price range size"
+msgstr ""
+
+#: includes/widgets/yolo-woo-price-ajax-filter.php:51
+msgid "Max price ranges"
+msgstr ""
+
+#: includes/widgets/yolo-woo-price-ajax-filter.php:56
+msgid "Hide empty price ranges"
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:22
+msgid "Show sort by for shop page. This widget use for shop ajax page."
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:24
+msgid "YOLO WooCommerce Sort By Ajax "
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:28
+msgid "Sort By"
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:61
+msgid "Popularity"
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:62
+msgid "Average rating"
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:63
+msgid "Newness"
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:64
+msgid "Price: Low to High"
+msgstr ""
+
+#: includes/widgets/yolo-woo-sort-by-ajax.php:65
+msgid "Price: High to Low"
+msgstr ""
+
+#: yolo-bestruct-framework.php:65
+msgid "Bestruct Shortcodes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Yolo Bestruct Framework"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://yolotheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The Yolo Bestruct Framework plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YoloTheme"
+msgstr ""

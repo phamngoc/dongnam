@@ -1,0 +1,151 @@
+@media screen and (min-width:1370px) {
+    header.yolo-main-header.header-4 .yolo-header-nav-wrapper.nav-fullwith {
+        padding-left: @header_5_nav_layout_padding;
+        padding-right: @header_5_nav_layout_padding;
+    }
+}
+.header-5 {
+    .yolo-header-nav-above {
+        border: none !important;
+        .container {
+            background: transparent;
+            .fl{
+                .header-logo {
+                    vertical-align: middle;
+                    display: table-cell;
+                    text-align: center;
+                    height: @header_5_height;
+                }
+           }
+        }
+    }
+    .header-customize-right{
+    	height: @header_5_height !important;
+    }
+    .contact-info{
+        padding: 0;
+        margin: 0;
+        li{
+            padding-left: 20px;
+            display: table;
+            float: left;
+            .icon{
+                height: 50px;
+                width: 50px;
+                border:1px solid @primary_color;
+                border-radius: 100%;
+                text-align: center;
+                vertical-align: middle;
+                font-size: 24px;
+                float: left;
+                display: table-cell;
+                i{
+                    line-height: 48px;
+                    color: @primary_color;
+                }
+            }
+            .content-step{
+                font-family: @primary_font;
+                display: table-cell;
+                line-height: 1.5;
+                padding-left: 15px;
+                vertical-align: middle;
+                .title{
+                    text-transform: uppercase;
+                    color: @text_color;
+                    font-weight: bold;
+                    font-size: 16px;
+                }
+            }
+            a{
+                padding: 15px 20px;
+                background: @primary_color;
+                text-transform: uppercase;
+                color: @white;
+                font-weight: bold;
+                border-radius: 5px;
+                &:hover{
+                    background-color: darken(@primary_color, 10%);
+                }
+                @media(max-width:1199px){
+                    display: none;
+                }
+            }
+        }
+    }
+    .yolo-header-nav-wrapper {
+        background-color:  @header_5_nav_bg_color;
+        .container {
+            //background: @header_5_nav_bg_color;
+            .fl{
+                .header-logo {
+                    vertical-align: middle;
+                    display: table-cell;
+                    text-align: center;
+                }
+            }
+            .yolo-header-wrapper {
+                clear: both;
+                
+                .header-left {
+                    float: left;
+                    .menu-wrapper {
+                        .yolo-main-menu {
+                            > li {
+                                > a {
+                                	color: @header_5_nav_text_color;
+                                	padding-right: @header_5_nav_distance;
+                                	padding-left: @header_5_nav_distance;
+                                    &:before{
+                                        top: auto;
+                                        bottom: 0;
+                                    }
+                                }
+                                &:hover {
+                                    > a {
+                                        color: @primary_color !important;
+                                    }
+                                }
+                            }
+                            li.menu-item-has-children {
+                                &:hover {
+                                    > a {
+                                        color: @primary_color !important;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .header-right {
+                    float: right;
+                    color: @header_5_nav_text_color;
+                    .header-customize-nav {
+                        line-height: 60px;
+                        .search-box-wrapper {
+                            form {
+                                width: 270px;
+                                input[type="text"] {
+                                    background-color: lighten(@header_5_nav_text_color, 10%);
+                                    border: none;
+                                    color: @header_5_nav_text_color;
+                                    .placeholder(fade(@header_5_nav_text_color, 70%));
+                                }
+                                button {
+                                    i {
+                                        color: @header_5_nav_text_color;
+                                        font-size: 15px;
+                                        .transition(all 0.35s ease);
+                                        &:hover {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

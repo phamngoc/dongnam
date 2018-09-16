@@ -1,0 +1,94 @@
+@media screen and (min-width:1370px) {
+    header.yolo-main-header.header-1 .yolo-header-nav-wrapper.nav-fullwith {
+        padding-left: @header_1_nav_layout_padding;
+        padding-right: @header_1_nav_layout_padding;
+    }
+}
+header.header-1 {
+    position: relative;
+    z-index: 10;
+    .fl {
+        .header-logo {
+            height: @header_1_height;
+            display: table-cell;
+            vertical-align: middle;
+            text-align: center;
+        }
+    }
+    .fr {
+        .header-customize-right {
+            height: @header_1_height;
+            .search-with-category {
+                .form-search-left > span {
+                    font-weight: bold;
+                    background-color: @header_1_nav_bg_color;
+                    color: @header_1_nav_text_color;
+                    border-color: @header_1_nav_bg_color;
+                }
+                margin-right: 100px;
+                @media (min-width:992px) and (max-width:1024px) {
+                    width: 405px;
+                    margin-right: 80px;
+                }
+
+                .form-search-right{
+                    input{
+                        border-color: @header_1_nav_bg_color;
+                    }
+                }
+            }
+            .custom-text-wrapper{
+                i{
+                    margin-right: 10px;
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+    .yolo-header-nav-wrapper{
+        background-color: @header_1_nav_bg_color;
+    }
+    .yolo-header-wrapper {
+        .header-center {
+            display: flex;
+            .menu-wrapper {
+                margin: 0 auto;
+                .yolo-main-menu{
+                    > li {
+                        > a{
+                            &:before{
+                                height: 15px;
+                                width: 2px;
+                                left: 50%;
+                                .transform(translateX(-50%) scale(0));
+                            }
+                        }
+                        &:hover{
+                            > a{
+                                &:before{
+                                    .transform(translateX(-50%) scale(1));
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .header-customize-nav{
+                line-height: 60px;
+                color: @header_1_nav_text_color;
+                .header-customize-item{
+                    margin-left: 10px;
+                }
+            }
+        }
+        .yolo-main-menu{
+            > li{
+                > a{
+                    color: @header_1_nav_text_color;
+                    padding-right: @header_1_nav_distance;
+                    padding-left: @header_1_nav_distance;
+                }
+            }
+        }
+    }
+}

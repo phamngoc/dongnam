@@ -1,0 +1,170 @@
+
+// Counter Shortcode
+.counter-wrap-style_1{
+    position: relative;
+    margin: 0 auto;
+    .transition( all 0.35s ease-in-out);
+    .gr-counter{
+        .content-inner{
+            position: relative;
+            text-align: center;
+            font-weight: 500;
+            .gr-number-counter{
+                margin-top: 15px;
+                margin-bottom: 10px;
+                font-size: 22px;
+                .transition( all 0.35s ease);
+                line-height: 1;
+            }
+            .gr-text-defaul{
+                position: relative;
+                white-space: nowrap;
+                font-size: 18px;
+                .transition( all 0.35s ease);
+                padding-bottom: 20px;
+                &:before{
+                    content: '';
+                    display: block;
+                    height: 1px;
+                    width: 0px;
+                    position: absolute;
+                    left: 50%;
+                    bottom: 0;
+                    .translateX(-50%);
+                    .transition( all 0.35s ease);
+                    background-color: @primary_color;
+                }
+            }
+        }  
+    }
+    &:hover{
+        .gr-counter{ 
+            .content-inner{
+                .gr-text-defaul{
+                    &:before{
+                        width: 100px;
+                    }
+                    
+                }
+            }
+        }
+    }
+    @media (max-width: 991px){
+        margin: 15px auto;
+    }   
+}
+.counter-wrap-style_2{
+    position: relative;
+    margin: 0 auto;
+    .transition( all 0.35s ease-in-out);
+    .gr-counter{
+        .content-inner{
+            position: relative;
+            text-align: center;
+            font-weight: 500;
+            .icon-img{
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                .translate(-50%,-50%);
+            }
+            .gr-number-counter{
+                position: relative;
+                z-index: 2;
+                margin-top: 15px;
+                margin-bottom: 10px;
+                font-size: 41px;
+                .transition( all 0.35s ease);
+                line-height: 1;
+                color: @heading_color;
+            }
+            .gr-text-defaul{
+                position: relative;
+                text-transform: uppercase;
+                white-space: nowrap;
+                font-weight: bold;
+                font-size: 14px;
+                .transition( all 0.35s ease);
+            }
+        }  
+    }
+    &:hover{
+        .gr-counter{ 
+            .content-inner{
+                .gr-text-defaul{
+                    &:before{
+                        width: 100px;
+                    }
+                    
+                }
+            }
+        }
+    }
+    @media (max-width: 991px){
+        margin: 50px auto;
+    }   
+}
+.gr-counter .text-content span{
+    font-size: 24px;
+    color: @primary_color;
+}
+.counter-wrap-style_3{
+    position: relative;
+    margin: 0 auto;
+    .transition( all 0.35s ease-in-out);
+    .gr-counter{
+        margin: 40px 0;
+        .content-inner{
+            position: relative;
+            text-align: center;
+            font-weight: bold;
+            line-height: 1.3;
+            display: table;
+            .icon-img{
+               display: table-cell;
+               width:  25%;
+            }
+            .text-content{
+                display: table-cell;
+                text-align: left;
+                padding-left: 20px;
+            }
+            .gr-number-counter{
+                position: relative;
+                z-index: 2;
+                margin-top: 0px;
+                margin-bottom: 10px;
+                font-size: 40px;
+                .transition( all 0.35s ease);
+                line-height: 1;
+                color: @heading_color; 
+                display: inline-block;
+            }
+            .gr-text-defaul{
+                position: relative;
+                white-space: nowrap;
+                font-weight: bold;
+                font-size: 16px;
+                .transition( all 0.35s ease);
+            }
+            @media (max-width: 767px){
+                margin: 0 auto;
+            } 
+        }  
+    }
+    &:hover{
+        .gr-counter{ 
+            .content-inner{
+                .gr-text-defaul{
+                    &:before{
+                        width: 100px;
+                    }
+                    
+                }
+            }
+        }
+    }
+    @media (max-width: 991px){
+        margin: 50px auto;
+    }   
+}

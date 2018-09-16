@@ -1,0 +1,5132 @@
+===== Start Importer =====
++ Time: 15-09-2018 16:20:52
++ Start process importer data, please wait process posts...
+
+===== Start Check File Systems =====
++ Time: 15-09-2018 16:20:53
+
+===== Check File Systems =====
++ Time: 15-09-2018 16:20:53
++ Check File Systems<br />Check file content.xml -&gt; OK<br />Check file widgets.wie -&gt; OK<br />Check file option.json -&gt; OK<br />Check Revslider file home-shop-1.zip -&gt; OK<br />Check Revslider file home-shop-2.zip -&gt; OK<br />Check Revslider file home-shop-3.zip -&gt; OK<br />Check Revslider file home-shop-4.zip -&gt; OK<br />Check Revslider file home-business-1.zip -&gt; OK<br />Check Revslider file home-business-2.zip -&gt; OK<br />Check Revslider file home-business-3.zip -&gt; OK<br />Check Revslider file home-services.zip -&gt; OK
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:20:54
+
+===== Get Base Site Url =====
++ Time: 15-09-2018 16:20:54
++ http://demo.yolotheme.com/dummy/bestruct
+
+===== Total Category =====
++ Time: 15-09-2018 16:20:54
++ Number: 6
+
+===== Total Term =====
++ Time: 15-09-2018 16:20:54
++ Number: 47
+
+===== Total Tags =====
++ Time: 15-09-2018 16:20:54
++ Number: 10
+
+===== Total Author =====
++ Time: 15-09-2018 16:20:54
++ Number: 1
+
+===== Total Posts =====
++ Time: 15-09-2018 16:20:54
++ Number: 345
+
+===== Start Import Data =====
++ Time: 15-09-2018 16:20:54
+
+===== Start Get Content =====
++ Time: 15-09-2018 16:20:54
++ Begin the process of obtaining content data, please wait process get author...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:20:55
+
+===== Start Get Author =====
++ Time: 15-09-2018 16:20:55
+
+===== Get List Author Success! =====
++ Time: 15-09-2018 16:20:55
+
+===== ERROR: Create new user &quot;admin&quot; =====
++ Time: 15-09-2018 16:20:55
++ Failed to create new user for admin. Their posts will be attributed to the current user.<br /> Sorry, that username already exists!
+
+===== End Get Author =====
++ Time: 15-09-2018 16:20:55
++ Obtaining data author successfully, please wait process get category...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:20:56
+
+===== Start Get Category =====
++ Time: 15-09-2018 16:20:56
+
+===== SUCCESS: Create category &quot;architecture&quot; success have ID is: 2. =====
++ Time: 15-09-2018 16:20:56
+
+===== SUCCESS: Create category &quot;collection&quot; success have ID is: 3. =====
++ Time: 15-09-2018 16:20:56
+
+===== SUCCESS: Create category &quot;design&quot; success have ID is: 4. =====
++ Time: 15-09-2018 16:20:56
+
+===== SUCCESS: Create category &quot;special&quot; success have ID is: 5. =====
++ Time: 15-09-2018 16:20:56
+
+===== SUCCESS: Create category &quot;trending&quot; success have ID is: 6. =====
++ Time: 15-09-2018 16:20:56
+
+===== ERROR: Category exists &quot;uncategorized&quot; have ID is: 1. =====
++ Time: 15-09-2018 16:20:56
+
+===== Total Processed Terms =====
++ Time: 15-09-2018 16:20:56
++ Number: 1
+
+===== End Get Category =====
++ Time: 15-09-2018 16:20:56
++ Obtaining data categories successfully, please wait process get tags...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:20:57
+
+===== Start Get Tags =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Building&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Chair&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Construct&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Decoration&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Dream house&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Elegant&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Lamp&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;Videos&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;WordPress&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== SUCCESS: Create tags &quot;YoloTheme&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:57
+
+===== End Get Tags =====
++ Time: 15-09-2018 16:20:57
++ Obtaining data tags successfully, please wait process get term...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:20:58
+
+===== Start Get Term =====
++ Time: 15-09-2018 16:20:58
+
+===== Failed to import: product_tag. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_tag. 
+ Invalid taxonomy.
+
+===== Failed to import: pa_color. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import pa_color. 
+ Invalid taxonomy.
+
+===== Failed to import: pa_color. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import pa_color. 
+ Invalid taxonomy.
+
+===== Failed to import: product_tag. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_tag. 
+ Invalid taxonomy.
+
+===== SUCCESS: Create term &quot;Delivery method&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Dream Team&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== Failed to import: product_tag. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_tag. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_type. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_type. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_tag. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_tag. 
+ Invalid taxonomy.
+
+===== SUCCESS: Create term &quot;Future Team&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== Failed to import: pa_color. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import pa_color. 
+ Invalid taxonomy.
+
+===== Failed to import: product_type. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_type. 
+ Invalid taxonomy.
+
+===== SUCCESS: Create term &quot;Home business 1&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Home business 2&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Home business 3&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Location&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Market sector&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_visibility. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_visibility. 
+ Invalid taxonomy.
+
+===== Failed to import: product_type. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_type. 
+ Invalid taxonomy.
+
+===== Failed to import: product_tag. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_tag. 
+ Invalid taxonomy.
+
+===== Failed to import: product_tag. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_tag. 
+ Invalid taxonomy.
+
+===== SUCCESS: Create term &quot;Testimonial&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Testimonial 2&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== Failed to import: product_type. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_type. 
+ Invalid taxonomy.
+
+===== Failed to import: pa_color. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import pa_color. 
+ Invalid taxonomy.
+
+===== Failed to import: pa_color. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import pa_color. 
+ Invalid taxonomy.
+
+===== Failed to import: product_cat. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_cat. 
+ Invalid taxonomy.
+
+===== Failed to import: product_cat. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_cat. 
+ Invalid taxonomy.
+
+===== Failed to import: product_cat. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_cat. 
+ Invalid taxonomy.
+
+===== Failed to import: product_cat. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_cat. 
+ Invalid taxonomy.
+
+===== Failed to import: product_cat. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_cat. 
+ Invalid taxonomy.
+
+===== Failed to import: product_cat. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_cat. 
+ Invalid taxonomy.
+
+===== Failed to import: product_cat. =====
++ Time: 15-09-2018 16:20:58
++ Failed to import product_cat. 
+ Invalid taxonomy.
+
+===== SUCCESS: Create term &quot;Main Menu&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Menu Project&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Menu Service&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Menu Service 2&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;Mobile Menu&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== SUCCESS: Create term &quot;TopBar Menu&quot; success have ID is: 1. =====
++ Time: 15-09-2018 16:20:58
+
+===== End Get Term =====
++ Time: 15-09-2018 16:20:58
++ Obtaining data terms successfully, please wait process get posts...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:20:59
+
+===== Start Get Posts =====
++ Time: 15-09-2018 16:20:59
+
+===== Failed to import: Green Chair. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Green Chair&#8221;: Invalid post type product.
+
+===== Failed to import: Luxury lamp. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Luxury lamp&#8221;: Invalid post type product.
+
+===== Failed to import: Red chair. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Red chair&#8221;: Invalid post type product.
+
+===== Failed to import: Nulla sed libero. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Nulla sed libero&#8221;: Invalid post type product.
+
+===== Failed to import: Luxury chair. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Luxury chair&#8221;: Invalid post type product.
+
+===== Failed to import: Art chair. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Art chair&#8221;: Invalid post type product.
+
+===== Failed to import: Miller Lamp. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Miller Lamp&#8221;: Invalid post type product.
+
+===== Failed to import: Luxury Locker. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Luxury Locker&#8221;: Invalid post type product.
+
+===== Failed to import: Gun Lamp. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Gun Lamp&#8221;: Invalid post type product.
+
+===== Failed to import: Classic wood chair. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Classic wood chair&#8221;: Invalid post type product.
+
+===== Failed to import: Student Desks. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Student Desks&#8221;: Invalid post type product.
+
+===== Failed to import: Lexington Wall Shelf. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Lexington Wall Shelf&#8221;: Invalid post type product.
+
+===== Failed to import: Variation #23 of Ship Your Idea. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Variation #23 of Ship Your Idea&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Variation #24 of Ship Your Idea. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Variation #24 of Ship Your Idea&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Variation #41 of Ship Your Idea. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Variation #41 of Ship Your Idea&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Variation #42 of Ship Your Idea. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Variation #42 of Ship Your Idea&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Lexington Wall Shelf. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Lexington Wall Shelf&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Gun Lamp - Black. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Gun Lamp - Black&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Nulla sed libero. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Nulla sed libero&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Gun Lamp - Yellow. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Gun Lamp - Yellow&#8221;: Invalid post type product_variation.
+
+===== Failed to import: Gun Lamp - White. =====
++ Time: 15-09-2018 16:20:59
++ Failed to import &#8220;Gun Lamp - White&#8221;: Invalid post type product_variation.
+
+===== Total Nav Menu =====
++ Time: 15-09-2018 16:20:59
++ Number: 90
+
+===== Total Attachment File =====
++ Time: 15-09-2018 16:20:59
++ Number: 158
+
+===== Total Post Parent =====
++ Time: 15-09-2018 16:21:00
++ Number: 136
+
+===== Total Post =====
++ Time: 15-09-2018 16:21:00
++ Number: 76
+
+===== End Get Posts =====
++ Time: 15-09-2018 16:21:00
++ Obtaining data posts successfully, please wait process get lists posts...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:00
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:00
++ Create new posts: yolo-bestruct.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:00
++ Create new posts: Wishlist.
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:00
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/processed_posts_15-09-2018.json.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:00
++ Number: 2
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:00
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/featured_images_15-09-2018.json.
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:00
++ Number: 0
+
+===== Process Lists Posts #2 =====
++ Time: 15-09-2018 16:21:00
++ Please wait process post #1...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:01
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:01
++ Create new posts: Classic Shop Home.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:02
++ Create new posts: Decor Shop Home.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:02
++ Number: 4
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:02
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/featured_images_15-09-2018.json.
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:02
++ Number: 0
+
+===== Process Lists Posts #3 =====
++ Time: 15-09-2018 16:21:02
++ Please wait process post #2...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:03
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:03
++ Create new posts: Interior Shop Home.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:03
++ Create new posts: Furniture Shop Home.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:03
++ Number: 6
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:03
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/featured_images_15-09-2018.json.
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:03
++ Number: 0
+
+===== Process Lists Posts #4 =====
++ Time: 15-09-2018 16:21:03
++ Please wait process post #3...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:04
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:04
++ Create new posts: Construction Home.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:04
++ Create new posts: Architecture Home.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:05
++ Number: 8
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:05
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/featured_images_15-09-2018.json.
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:05
++ Number: 0
+
+===== Process Lists Posts #5 =====
++ Time: 15-09-2018 16:21:05
++ Please wait process post #4...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:06
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:06
++ Create new posts: Shop.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:06
++ Create new posts: Cart.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:06
++ Number: 10
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:06
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/featured_images_15-09-2018.json.
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:06
++ Number: 0
+
+===== Process Lists Posts #6 =====
++ Time: 15-09-2018 16:21:06
++ Please wait process post #5...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:07
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:07
++ Create new posts: Checkout.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:07
++ Create new posts: .
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:07
++ Number: 12
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:07
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/featured_images_15-09-2018.json.
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:07
++ Number: 0
+
+===== Process Lists Posts #7 =====
++ Time: 15-09-2018 16:21:07
++ Please wait process post #6...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:08
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:08
++ Create new posts: Review collection 2016.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:08
++ Create new posts: New Presentation.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:08
++ Number: 14
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:08
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/featured_images_15-09-2018.json.
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:08
++ Number: 2
+
+===== Process Lists Posts #8 =====
++ Time: 15-09-2018 16:21:08
++ Please wait process post #7...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:10
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:10
++ Create new posts: My Account.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:10
++ Create new posts: Product masonry.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:11
++ Number: 16
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:11
++ Number: 2
+
+===== Process Lists Posts #9 =====
++ Time: 15-09-2018 16:21:11
++ Please wait process post #8...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:11
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:11
++ Create new posts: Product Schedule.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:12
++ Create new posts: Project Home.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:12
++ Number: 18
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:12
++ Number: 2
+
+===== Process Lists Posts #10 =====
++ Time: 15-09-2018 16:21:12
++ Please wait process post #9...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:13
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:13
++ Create new posts: Product List.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:13
++ Create new posts: Blog.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:13
++ Number: 20
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:13
++ Number: 2
+
+===== Process Lists Posts #11 =====
++ Time: 15-09-2018 16:21:13
++ Please wait process post #10...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:14
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:14
++ Create new posts: About us.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:15
++ Create new posts: Contact.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:15
++ Number: 22
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:15
++ Number: 2
+
+===== Process Lists Posts #12 =====
++ Time: 15-09-2018 16:21:15
++ Please wait process post #11...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:16
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:16
++ Create new posts: Main Services.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:16
++ Create new posts: Why Choose Us.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:16
++ Number: 24
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:16
++ Number: 2
+
+===== Process Lists Posts #13 =====
++ Time: 15-09-2018 16:21:16
++ Please wait process post #12...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:17
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:17
++ Create new posts: Book Service.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:17
++ Create new posts: Product Grid.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:17
++ Number: 26
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:17
++ Number: 2
+
+===== Process Lists Posts #14 =====
++ Time: 15-09-2018 16:21:17
++ Please wait process post #13...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:19
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:19
++ Create new posts: Blog Grid.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:19
++ Create new posts: Blog List.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:19
++ Number: 28
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:19
++ Number: 2
+
+===== Process Lists Posts #15 =====
++ Time: 15-09-2018 16:21:19
++ Please wait process post #14...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:20
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:20
++ Create new posts: Project Classic.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:20
++ Create new posts: Project Packery.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:21
++ Number: 30
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:21
++ Number: 2
+
+===== Process Lists Posts #16 =====
++ Time: 15-09-2018 16:21:21
++ Please wait process post #15...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:21
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:21
++ Create new posts: Portfolio.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:22
++ Create new posts: Products Tab.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:22
++ Number: 32
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:22
++ Number: 2
+
+===== Process Lists Posts #17 =====
++ Time: 15-09-2018 16:21:22
++ Please wait process post #16...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:23
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:23
++ Create new posts: Contrary to a populer.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:23
++ Create new posts: Et harum quidem rerum.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:24
++ Number: 34
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:24
++ Number: 4
+
+===== Process Lists Posts #18 =====
++ Time: 15-09-2018 16:21:24
++ Please wait process post #17...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:26
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:26
++ Create new posts: Consectetur adipiscing.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:26
++ Create new posts: Cint aecat cupidatat.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:27
++ Number: 36
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:27
++ Number: 6
+
+===== Process Lists Posts #19 =====
++ Time: 15-09-2018 16:21:27
++ Please wait process post #18...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:27
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:27
++ Create new posts: Contact form home business3.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:28
++ Create new posts: Newsletter Home 1.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:28
++ Number: 38
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:28
++ Number: 6
+
+===== Process Lists Posts #20 =====
++ Time: 15-09-2018 16:21:28
++ Please wait process post #19...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:28
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:28
++ Create new posts: Footer 1.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:28
++ Create new posts: Newsletter Home 2.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:29
++ Number: 40
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:29
++ Number: 6
+
+===== Process Lists Posts #21 =====
++ Time: 15-09-2018 16:21:29
++ Please wait process post #20...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:29
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:29
++ Create new posts: Footer 2.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:29
++ Create new posts: Footer 3.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:30
++ Number: 42
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:30
++ Number: 6
+
+===== Process Lists Posts #22 =====
++ Time: 15-09-2018 16:21:30
++ Please wait process post #21...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:30
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:30
++ Create new posts: Dignissimos ducimus qui.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:31
++ Create new posts: At vero eos et.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:31
++ Number: 44
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:31
++ Number: 8
+
+===== Process Lists Posts #23 =====
++ Time: 15-09-2018 16:21:31
++ Please wait process post #22...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:32
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:32
++ Create new posts: Newsletter Home 5.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:32
++ Create new posts: Footer Business 1.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:32
++ Number: 46
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:32
++ Number: 8
+
+===== Process Lists Posts #24 =====
++ Time: 15-09-2018 16:21:32
++ Please wait process post #23...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:33
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:33
++ Create new posts: Newsletter Home 6.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:33
++ Create new posts: Footer Business 2.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:33
++ Number: 48
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:33
++ Number: 8
+
+===== Process Lists Posts #25 =====
++ Time: 15-09-2018 16:21:33
++ Please wait process post #24...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:34
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:34
++ Create new posts: Footer Business 3.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:34
++ Create new posts: Contact form page.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:34
++ Number: 50
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:34
++ Number: 8
+
+===== Process Lists Posts #26 =====
++ Time: 15-09-2018 16:21:34
++ Please wait process post #25...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:35
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:36
++ Create new posts: Contact Services.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:36
++ Create new posts: James M. Beck.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:36
++ Number: 52
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:36
++ Number: 9
+
+===== Process Lists Posts #27 =====
++ Time: 15-09-2018 16:21:36
++ Please wait process post #26...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:37
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:37
++ Create new posts: Adam Lallana.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:37
++ Create new posts: Jordan Henderson.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:37
++ Number: 54
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:37
++ Number: 11
+
+===== Process Lists Posts #28 =====
++ Time: 15-09-2018 16:21:37
++ Please wait process post #27...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:38
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:38
++ Create new posts: Itaque earum rerum.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:38
++ Create new posts: Hermione Lauren.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:38
++ Number: 56
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:38
++ Number: 13
+
+===== Process Lists Posts #29 =====
++ Time: 15-09-2018 16:21:38
++ Please wait process post #28...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:39
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:39
++ Create new posts: Occaecat cupidatat non.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:40
++ Create new posts: Daniel Amy.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:40
++ Number: 58
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:40
++ Number: 15
+
+===== Process Lists Posts #30 =====
++ Time: 15-09-2018 16:21:40
++ Please wait process post #29...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:41
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:41
++ Create new posts: Mike Jayden.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:41
++ Create new posts: Brian Wagner.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:41
++ Number: 60
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:41
++ Number: 17
+
+===== Process Lists Posts #31 =====
++ Time: 15-09-2018 16:21:41
++ Please wait process post #30...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:42
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:42
++ Create new posts: Anna Isabella.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:43
++ Create new posts: Max Connor.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:43
++ Number: 62
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:43
++ Number: 19
+
+===== Process Lists Posts #32 =====
++ Time: 15-09-2018 16:21:43
++ Please wait process post #31...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:44
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:44
++ Create new posts: Emily Madison.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:44
++ Create new posts: Sophia Sarah.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:44
++ Number: 64
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:44
++ Number: 21
+
+===== Process Lists Posts #33 =====
++ Time: 15-09-2018 16:21:44
++ Please wait process post #32...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:45
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:45
++ Create new posts: Taylor Kayla.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:45
++ Create new posts: Labore et dolore.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:45
++ Number: 66
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:45
++ Number: 23
+
+===== Process Lists Posts #34 =====
++ Time: 15-09-2018 16:21:45
++ Please wait process post #33...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:46
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:47
++ Create new posts: Lipsam voluptatem quia.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:47
++ Create new posts: Dolorem ipsum quia.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:47
++ Number: 68
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:47
++ Number: 25
+
+===== Process Lists Posts #35 =====
++ Time: 15-09-2018 16:21:47
++ Please wait process post #34...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:48
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:48
++ Create new posts: Reiciendis voluptatibus.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:49
++ Create new posts: Joel Matip.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:49
++ Number: 70
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:49
++ Number: 27
+
+===== Process Lists Posts #36 =====
++ Time: 15-09-2018 16:21:49
++ Please wait process post #35...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:50
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:50
++ Create new posts: Nathan Jackson.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:50
++ Create new posts: Jennifer Allison.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:50
++ Number: 72
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:50
++ Number: 29
+
+===== Process Lists Posts #37 =====
++ Time: 15-09-2018 16:21:50
++ Please wait process post #36...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:51
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:51
++ Create new posts: Julia Kaitlyn.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:51
++ Create new posts: Kaitlyn Mia.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:51
++ Number: 74
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:51
++ Number: 31
+
+===== Process Lists Posts #38 =====
++ Time: 15-09-2018 16:21:51
++ Please wait process post #37...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:52
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:52
++ Create new posts: Jacob Liam.
+
+===== Create Posts =====
++ Time: 15-09-2018 16:21:52
++ Create new posts: Harrison Jake.
+
+===== Total Processed Posts =====
++ Time: 15-09-2018 16:21:52
++ Number: 76
+
+===== Total Featured Images =====
++ Time: 15-09-2018 16:21:52
++ Number: 33
+
+===== Process Lists Posts #39 =====
++ Time: 15-09-2018 16:21:52
++ Please wait process post #38...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:53
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:53
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/list_posts_15-09-2018.json.
+
+===== End Get Lists Posts =====
++ Time: 15-09-2018 16:21:53
++ Obtaining lists posts successfully, please wait process attachment image...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:54
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:56
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:21:56
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:21:56
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-slide-shopv1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-slide-shopv1.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:21:57
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:21:57
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:21:57
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-refund.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-refund.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:21:57
++ Number: 2
+
+===== Process attachment image #2 =====
++ Time: 15-09-2018 16:21:57
++ Please wait process attachment image #1...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:21:58
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:21:59
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:21:59
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-security.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-security.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:00
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:00
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:00
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-shipping.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-shipping.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:00
++ Number: 2
+
+===== Process attachment image #3 =====
++ Time: 15-09-2018 16:22:00
++ Please wait process attachment image #2...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:01
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:02
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:02
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-1.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:03
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:03
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:03
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-2.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:03
++ Number: 2
+
+===== Process attachment image #4 =====
++ Time: 15-09-2018 16:22:03
++ Please wait process attachment image #3...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:04
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:05
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:05
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-3.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:06
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:06
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:06
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:06
++ Number: 2
+
+===== Process attachment image #5 =====
++ Time: 15-09-2018 16:22:06
++ Please wait process attachment image #4...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:07
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:08
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:08
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:09
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:09
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:09
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-4.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-4.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:09
++ Number: 2
+
+===== Process attachment image #6 =====
++ Time: 15-09-2018 16:22:09
++ Please wait process attachment image #5...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:10
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:11
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:11
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/video-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/video-1.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:12
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:12
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:12
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-3.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-3.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:12
++ Number: 2
+
+===== Process attachment image #7 =====
++ Time: 15-09-2018 16:22:12
++ Please wait process attachment image #6...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:13
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:14
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:15
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/news-letter.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/news-letter.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:15
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:15
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:15
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/shape-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/shape-1.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:15
++ Number: 2
+
+===== Process attachment image #8 =====
++ Time: 15-09-2018 16:22:15
++ Please wait process attachment image #7...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:16
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:17
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:17
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/shape2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/shape2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:18
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:18
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:18
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/double-line.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/double-line.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:18
++ Number: 2
+
+===== Process attachment image #9 =====
++ Time: 15-09-2018 16:22:18
++ Please wait process attachment image #8...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:19
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:20
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:20
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/logo.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/logo.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:21
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:21
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:21
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/line.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/line.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:21
++ Number: 2
+
+===== Process attachment image #10 =====
++ Time: 15-09-2018 16:22:21
++ Please wait process attachment image #9...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:21
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:22
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:22
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-1.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:23
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:23
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:23
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-2.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:23
++ Number: 2
+
+===== Process attachment image #11 =====
++ Time: 15-09-2018 16:22:23
++ Please wait process attachment image #10...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:24
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:25
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:25
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-3.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:26
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:26
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:26
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-4.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:26
++ Number: 2
+
+===== Process attachment image #12 =====
++ Time: 15-09-2018 16:22:26
++ Please wait process attachment image #11...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:27
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:27
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:27
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-5.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-5.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:28
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:28
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:28
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-6.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-6.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:28
++ Number: 2
+
+===== Process attachment image #13 =====
++ Time: 15-09-2018 16:22:28
++ Please wait process attachment image #12...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:29
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:30
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:30
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/pr-countdown.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/pr-countdown.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:32
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:32
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:32
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/slider-2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/slider-2.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:32
++ Number: 2
+
+===== Process attachment image #14 =====
++ Time: 15-09-2018 16:22:32
++ Please wait process attachment image #13...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:33
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:34
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:35
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/slide-h2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/slide-h2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:36
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:36
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:36
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h2-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h2-1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:36
++ Number: 2
+
+===== Process attachment image #15 =====
++ Time: 15-09-2018 16:22:36
++ Please wait process attachment image #14...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:37
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:38
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:38
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h2-2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h2-2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:39
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:39
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:39
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon3.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:39
++ Number: 2
+
+===== Process attachment image #16 =====
++ Time: 15-09-2018 16:22:39
++ Please wait process attachment image #15...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:39
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:40
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:40
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:41
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:41
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:41
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-1.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:41
++ Number: 2
+
+===== Process attachment image #17 =====
++ Time: 15-09-2018 16:22:41
++ Please wait process attachment image #16...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:42
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:43
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:44
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bg-deal.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bg-deal.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:45
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:45
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:45
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h2-6.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h2-6.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:45
++ Number: 2
+
+===== Process attachment image #18 =====
++ Time: 15-09-2018 16:22:45
++ Please wait process attachment image #17...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:46
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:46
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:46
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/line2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/line2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:48
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:48
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:48
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h2-7.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h2-7.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:48
++ Number: 2
+
+===== Process attachment image #19 =====
++ Time: 15-09-2018 16:22:48
++ Please wait process attachment image #18...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:49
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:50
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:50
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-left.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-left.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:51
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:51
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:51
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-left.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-left.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:51
++ Number: 2
+
+===== Process attachment image #20 =====
++ Time: 15-09-2018 16:22:51
++ Please wait process attachment image #19...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:52
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:53
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:53
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/line-square.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/line-square.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:55
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:55
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:55
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/chair.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/chair.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:55
++ Number: 2
+
+===== Process attachment image #21 =====
++ Time: 15-09-2018 16:22:55
++ Please wait process attachment image #20...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:56
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:57
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:57
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h3-2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h3-2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:22:58
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:58
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:22:58
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h3.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h3.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:22:58
++ Number: 2
+
+===== Process attachment image #22 =====
++ Time: 15-09-2018 16:22:58
++ Please wait process attachment image #21...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:22:59
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:00
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:00
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/line-sep.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/line-sep.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:01
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:01
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:02
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-slider-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-slider-1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:02
++ Number: 2
+
+===== Process attachment image #23 =====
++ Time: 15-09-2018 16:23:02
++ Please wait process attachment image #22...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:03
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:04
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:04
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-left-h3.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-left-h3.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:05
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:05
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:05
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bg-countdown.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bg-countdown.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:05
++ Number: 2
+
+===== Process attachment image #24 =====
++ Time: 15-09-2018 16:23:05
++ Please wait process attachment image #23...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:06
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:08
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:08
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-left-h3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-left-h3.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:08
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:08
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:08
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/line-left.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/line-left.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:08
++ Number: 2
+
+===== Process attachment image #25 =====
++ Time: 15-09-2018 16:23:08
++ Please wait process attachment image #24...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:09
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:10
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:11
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h3-10.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h3-10.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:12
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:12
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:12
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-bottom.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-bottom.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:12
++ Number: 2
+
+===== Process attachment image #26 =====
++ Time: 15-09-2018 16:23:12
++ Please wait process attachment image #25...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:12
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:13
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:13
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-top.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-top.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:14
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:14
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:15
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/slider-h4-.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/slider-h4-.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:15
++ Number: 2
+
+===== Process attachment image #27 =====
++ Time: 15-09-2018 16:23:15
++ Please wait process attachment image #26...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:16
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:17
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:17
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h4-2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h4-2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:18
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:18
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:18
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h4-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h4-1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:18
++ Number: 2
+
+===== Process attachment image #28 =====
++ Time: 15-09-2018 16:23:18
++ Please wait process attachment image #27...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:19
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:20
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:20
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-24.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-24.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:21
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:21
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:21
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/return-h4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/return-h4.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:21
++ Number: 2
+
+===== Process attachment image #29 =====
++ Time: 15-09-2018 16:23:21
++ Please wait process attachment image #28...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:21
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:22
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:22
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-h4-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-h4-2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:23
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:23
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:23
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/locked-h4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/locked-h4.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:23
++ Number: 2
+
+===== Process attachment image #30 =====
++ Time: 15-09-2018 16:23:23
++ Please wait process attachment image #29...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:24
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:25
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:25
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h4-5.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h4-5.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:26
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:26
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:27
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h4-12.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h4-12.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:27
++ Number: 2
+
+===== Process attachment image #31 =====
++ Time: 15-09-2018 16:23:27
++ Please wait process attachment image #30...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:27
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:28
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:29
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h4-11.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h4-11.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:30
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:30
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:30
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bg-deal-h4.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bg-deal-h4.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:30
++ Number: 2
+
+===== Process attachment image #32 =====
++ Time: 15-09-2018 16:23:30
++ Please wait process attachment image #31...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:31
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:32
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:32
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-h4-17.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-h4-17.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:34
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:34
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:34
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/slider-business-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/slider-business-1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:34
++ Number: 2
+
+===== Process attachment image #33 =====
++ Time: 15-09-2018 16:23:34
++ Please wait process attachment image #32...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:35
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:37
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:37
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/slider-business-2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/slider-business-2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:38
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:38
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:38
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/home-icon.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/home-icon.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:38
++ Number: 2
+
+===== Process attachment image #34 =====
++ Time: 15-09-2018 16:23:38
++ Please wait process attachment image #33...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:39
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:40
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:40
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/pen-icon.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/pen-icon.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:41
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:41
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:41
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/phone-icon.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/phone-icon.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:41
++ Number: 2
+
+===== Process attachment image #35 =====
++ Time: 15-09-2018 16:23:41
++ Please wait process attachment image #34...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:42
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:42
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:42
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/save-icon.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/save-icon.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:44
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:44
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:44
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/who-we-are.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/who-we-are.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:44
++ Number: 2
+
+===== Process attachment image #36 =====
++ Time: 15-09-2018 16:23:44
++ Please wait process attachment image #35...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:45
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:46
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:46
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/purchar.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/purchar.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:47
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:47
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:47
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/counter-4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/counter-4.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:47
++ Number: 2
+
+===== Process attachment image #37 =====
++ Time: 15-09-2018 16:23:47
++ Please wait process attachment image #36...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:48
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:48
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:48
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/counter-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/counter-3.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:49
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:49
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:49
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/counter-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/counter-2.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:49
++ Number: 2
+
+===== Process attachment image #38 =====
++ Time: 15-09-2018 16:23:49
++ Please wait process attachment image #37...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:50
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:51
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:51
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/counter-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/counter-1.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:52
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:52
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:53
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-left-contact.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-left-contact.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:53
++ Number: 2
+
+===== Process attachment image #39 =====
++ Time: 15-09-2018 16:23:53
++ Please wait process attachment image #38...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:54
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:56
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:56
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/image-slide-h2-bu.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/image-slide-h2-bu.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:23:57
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:57
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:57
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/our-strang-left.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/our-strang-left.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:57
++ Number: 2
+
+===== Process attachment image #40 =====
++ Time: 15-09-2018 16:23:57
++ Please wait process attachment image #39...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:23:58
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:23:59
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:23:59
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/who-wa-right.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/who-wa-right.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:00
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:00
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:00
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-bu-6.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-bu-6.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:00
++ Number: 2
+
+===== Process attachment image #41 =====
++ Time: 15-09-2018 16:24:00
++ Please wait process attachment image #40...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:01
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:02
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:02
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-bu-5.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-bu-5.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:03
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:03
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:03
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-bu-4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-bu-4.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:03
++ Number: 2
+
+===== Process attachment image #42 =====
++ Time: 15-09-2018 16:24:03
++ Please wait process attachment image #41...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:04
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:04
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:04
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-bu-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-bu-3.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:05
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:05
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:05
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-bu2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-bu2.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:05
++ Number: 2
+
+===== Process attachment image #43 =====
++ Time: 15-09-2018 16:24:05
++ Please wait process attachment image #42...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:06
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:07
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:07
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-bu-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-bu-1.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:08
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:08
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:08
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/sign.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/sign.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:08
++ Number: 2
+
+===== Process attachment image #44 =====
++ Time: 15-09-2018 16:24:08
++ Please wait process attachment image #43...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:09
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:10
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:10
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-x6.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-x6.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:11
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:11
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:11
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-x5.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-x5.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:11
++ Number: 2
+
+===== Process attachment image #45 =====
++ Time: 15-09-2018 16:24:11
++ Please wait process attachment image #44...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:12
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:12
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:12
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-x4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-x4.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:13
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:13
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:13
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-x3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-x3.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:13
++ Number: 2
+
+===== Process attachment image #46 =====
++ Time: 15-09-2018 16:24:13
++ Please wait process attachment image #45...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:14
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:15
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:15
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-x2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-x2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:16
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:16
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:16
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-x1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-x1.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:16
++ Number: 2
+
+===== Process attachment image #47 =====
++ Time: 15-09-2018 16:24:16
++ Please wait process attachment image #46...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:17
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:18
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:18
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/single-wcu.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/single-wcu.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:19
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:19
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:19
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bg-newletter-hb2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bg-newletter-hb2.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:20
++ Number: 2
+
+===== Process attachment image #48 =====
++ Time: 15-09-2018 16:24:20
++ Please wait process attachment image #47...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:20
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:22
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:22
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/slider-bu-2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/slider-bu-2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:24
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:24
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:24
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-left-icon-box.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-left-icon-box.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:24
++ Number: 2
+
+===== Process attachment image #49 =====
++ Time: 15-09-2018 16:24:24
++ Please wait process attachment image #48...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:25
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:26
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:26
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/wcu-img-right.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/wcu-img-right.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:27
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:27
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:27
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/our-partner.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/our-partner.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:27
++ Number: 2
+
+===== Process attachment image #50 =====
++ Time: 15-09-2018 16:24:27
++ Please wait process attachment image #49...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:28
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:29
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:29
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-x6.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-x6.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:30
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:30
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:30
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-x5.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-x5.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:30
++ Number: 2
+
+===== Process attachment image #51 =====
++ Time: 15-09-2018 16:24:30
++ Please wait process attachment image #50...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:31
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:32
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:32
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-x4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-x4.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:32
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:32
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:32
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-x3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-x3.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:33
++ Number: 2
+
+===== Process attachment image #52 =====
++ Time: 15-09-2018 16:24:33
++ Please wait process attachment image #51...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:33
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:34
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:34
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-x2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-x2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:35
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:35
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:35
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/client-x1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/client-x1.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:35
++ Number: 2
+
+===== Process attachment image #53 =====
++ Time: 15-09-2018 16:24:35
++ Please wait process attachment image #52...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:36
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:37
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:37
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-footer.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-footer.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:37
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:37
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:37
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/sign2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/sign2.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:38
++ Number: 2
+
+===== Process attachment image #54 =====
++ Time: 15-09-2018 16:24:38
++ Please wait process attachment image #53...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:38
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:39
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:39
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/banner-spot.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/banner-spot.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:40
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:40
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:41
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/avt-img.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/avt-img.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:41
++ Number: 2
+
+===== Process attachment image #55 =====
++ Time: 15-09-2018 16:24:41
++ Please wait process attachment image #54...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:41
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:43
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:43
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/page-title-bestruct.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/page-title-bestruct.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:44
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:44
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:44
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/sign3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/sign3.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:44
++ Number: 2
+
+===== Process attachment image #56 =====
++ Time: 15-09-2018 16:24:44
++ Please wait process attachment image #55...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:45
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:46
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:47
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/out-team.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/out-team.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:48
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:48
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:49
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/base-tesstimonial-.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/base-tesstimonial-.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:49
++ Number: 2
+
+===== Process attachment image #57 =====
++ Time: 15-09-2018 16:24:49
++ Please wait process attachment image #56...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:50
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:51
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:51
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/map.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/map.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:51
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:51
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:51
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-ct-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-ct-3.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:51
++ Number: 2
+
+===== Process attachment image #58 =====
++ Time: 15-09-2018 16:24:51
++ Please wait process attachment image #57...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:52
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:53
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:53
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-ct-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-ct-2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:54
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:54
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:54
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-ct-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-ct-1.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:54
++ Number: 2
+
+===== Process attachment image #59 =====
++ Time: 15-09-2018 16:24:54
++ Please wait process attachment image #58...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:55
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:56
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:57
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/slider-services.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/slider-services.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:24:57
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:57
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:57
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/pr-ev.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/pr-ev.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:57
++ Number: 2
+
+===== Process attachment image #60 =====
++ Time: 15-09-2018 16:24:57
++ Please wait process attachment image #59...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:24:58
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:24:59
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:24:59
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/ne-xt.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/ne-xt.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:00
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:00
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:00
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/base-bg1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/base-bg1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:00
++ Number: 2
+
+===== Process attachment image #61 =====
++ Time: 15-09-2018 16:25:00
++ Please wait process attachment image #60...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:01
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:02
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:02
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/shadow.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/shadow.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:03
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:03
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:03
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-b-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-b-3.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:03
++ Number: 2
+
+===== Process attachment image #62 =====
++ Time: 15-09-2018 16:25:03
++ Please wait process attachment image #61...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:04
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:05
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:05
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-b-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-b-2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:05
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:05
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:05
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-b-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-b-1.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:05
++ Number: 2
+
+===== Process attachment image #63 =====
++ Time: 15-09-2018 16:25:05
++ Please wait process attachment image #62...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:06
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:07
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:07
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/shadow3.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/shadow3.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:08
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:08
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:08
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/shadow2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/shadow2.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:08
++ Number: 2
+
+===== Process attachment image #64 =====
++ Time: 15-09-2018 16:25:08
++ Please wait process attachment image #63...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:09
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:10
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:10
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-box-4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-box-4.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:11
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:11
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:11
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-box-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-box-3.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:11
++ Number: 2
+
+===== Process attachment image #65 =====
++ Time: 15-09-2018 16:25:11
++ Please wait process attachment image #64...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:12
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:13
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:13
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-box-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-box-2.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:13
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:13
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:13
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-box-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-box-1.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:13
++ Number: 2
+
+===== Process attachment image #66 =====
++ Time: 15-09-2018 16:25:13
++ Please wait process attachment image #65...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:14
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:15
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:15
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/img-center.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/img-center.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:17
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:17
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:17
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/join-team.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/join-team.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:17
++ Number: 2
+
+===== Process attachment image #67 =====
++ Time: 15-09-2018 16:25:17
++ Please wait process attachment image #66...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:18
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:18
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:18
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/counter-i-3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/counter-i-3.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:19
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:19
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:19
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/counter-i-2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/counter-i-2.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:19
++ Number: 2
+
+===== Process attachment image #68 =====
++ Time: 15-09-2018 16:25:19
++ Please wait process attachment image #67...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:20
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:21
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:21
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/counter-i-1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/counter-i-1.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:22
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:22
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:22
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bannerxx-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bannerxx-1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:22
++ Number: 2
+
+===== Process attachment image #69 =====
++ Time: 15-09-2018 16:25:22
++ Please wait process attachment image #68...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:23
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:24
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:25
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2017/01/coming-soon.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2017/01/coming-soon.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:27
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:27
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:27
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2017/01/coming-soon-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2017/01/coming-soon-1.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:27
++ Number: 2
+
+===== Process attachment image #70 =====
++ Time: 15-09-2018 16:25:27
++ Please wait process attachment image #69...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:28
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:30
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:30
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2017/01/book-shel.png
++ URL: http://localhost/dongnam/wp-content/uploads/2017/01/book-shel.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:31
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:31
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:32
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bg-paralax.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bg-paralax.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:32
++ Number: 2
+
+===== Process attachment image #71 =====
++ Time: 15-09-2018 16:25:32
++ Please wait process attachment image #70...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:33
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:34
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:35
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bg-paralax2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bg-paralax2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:36
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:36
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:36
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-c6.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-c6.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:36
++ Number: 2
+
+===== Process attachment image #72 =====
++ Time: 15-09-2018 16:25:36
++ Please wait process attachment image #71...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:37
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:38
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:38
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-c5.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-c5.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:38
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:38
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:38
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-c4.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-c4.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:39
++ Number: 2
+
+===== Process attachment image #73 =====
++ Time: 15-09-2018 16:25:39
++ Please wait process attachment image #72...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:39
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:40
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:40
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-c3.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-c3.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:41
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:41
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:41
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-c2.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-c2.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:41
++ Number: 2
+
+===== Process attachment image #74 =====
++ Time: 15-09-2018 16:25:41
++ Please wait process attachment image #73...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:42
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:43
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:43
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/icon-c1.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/icon-c1.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:44
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:44
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:45
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/who-wa-left.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/who-wa-left.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:45
++ Number: 2
+
+===== Process attachment image #75 =====
++ Time: 15-09-2018 16:25:45
++ Please wait process attachment image #74...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:45
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:47
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:47
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/left-counter.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/left-counter.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:47
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:47
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:47
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/line-h.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/line-h.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:47
++ Number: 2
+
+===== Process attachment image #76 =====
++ Time: 15-09-2018 16:25:47
++ Please wait process attachment image #75...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:48
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:49
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:49
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/hary.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/hary.png
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:50
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:50
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:51
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2017/02/shop-bg-menu.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2017/02/shop-bg-menu.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:51
++ Number: 2
+
+===== Process attachment image #77 =====
++ Time: 15-09-2018 16:25:51
++ Please wait process attachment image #76...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:51
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:53
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:53
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/bg-paralax2-1.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/bg-paralax2-1.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:54
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:54
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:54
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2017/12/product-demo.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2017/12/product-demo.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:54
++ Number: 2
+
+===== Process attachment image #78 =====
++ Time: 15-09-2018 16:25:54
++ Please wait process attachment image #77...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:55
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:56
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:56
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/blog-demo.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/blog-demo.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:25:57
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:57
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:57
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/teammember-demo.png
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/teammember-demo.png
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:57
++ Number: 2
+
+===== Process attachment image #79 =====
++ Time: 15-09-2018 16:25:57
++ Please wait process attachment image #78...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:25:58
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:25:59
++ Number: 3
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:25:59
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/teammember-demo2.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/teammember-demo2.jpg
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:26:00
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/url_remap_15-09-2018.json.
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:26:00
++ Number: 1
+
+===== Upload Attachment Image =====
++ Time: 15-09-2018 16:26:00
++ Upload image to media success!
++ Source: http://demo.yolotheme.com/dummy/bestruct/wp-content/uploads/2016/12/portfolio-demo.jpg
++ URL: http://localhost/dongnam/wp-content/uploads/2016/12/portfolio-demo.jpg
+
+===== Total Url Remap =====
++ Time: 15-09-2018 16:26:00
++ Number: 2
+
+===== Process attachment image #80 =====
++ Time: 15-09-2018 16:26:00
++ Please wait process attachment image #79...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:01
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:26:01
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/attachment_15-09-2018.json.
+
+===== End Get Attachment =====
++ Time: 15-09-2018 16:26:01
++ Obtaining attachment image successfully, please wait process nav menu...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:02
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:26:02
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/processed_menu_items_15-09-2018.json.
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:26:02
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/menu_item_orphans_15-09-2018.json.
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3684. =====
++ Time: 15-09-2018 16:26:02
+
+===== Process Nav Menu #2 =====
++ Time: 15-09-2018 16:26:02
++ Please wait process nav menu #1...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:03
+
+===== Success Update Menu: 
++Menu name: Mega Menu
++Menu ID: 3685. =====
++ Time: 15-09-2018 16:26:03
+
+===== Success Update Menu: 
++Menu name: Projects
++Menu ID: 3686. =====
++ Time: 15-09-2018 16:26:03
+
+===== Process Nav Menu #3 =====
++ Time: 15-09-2018 16:26:03
++ Please wait process nav menu #2...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:04
+
+===== Success Update Menu: 
++Menu name: Services
++Menu ID: 3687. =====
++ Time: 15-09-2018 16:26:04
+
+===== Success Update Menu: 
++Menu name: Page
++Menu ID: 3688. =====
++ Time: 15-09-2018 16:26:04
+
+===== Process Nav Menu #4 =====
++ Time: 15-09-2018 16:26:05
++ Please wait process nav menu #3...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:06
+
+===== Success Update Menu: 
++Menu name: About Us
++Menu ID: 3689. =====
++ Time: 15-09-2018 16:26:06
+
+===== Success Update Menu: 
++Menu name: Sitemap
++Menu ID: 3690. =====
++ Time: 15-09-2018 16:26:06
+
+===== Process Nav Menu #5 =====
++ Time: 15-09-2018 16:26:06
++ Please wait process nav menu #4...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:07
+
+===== Success Update Menu: 
++Menu name: Order History
++Menu ID: 3691. =====
++ Time: 15-09-2018 16:26:07
+
+===== Success Update Menu: 
++Menu name: Privacy Policy
++Menu ID: 3692. =====
++ Time: 15-09-2018 16:26:07
+
+===== Process Nav Menu #6 =====
++ Time: 15-09-2018 16:26:07
++ Please wait process nav menu #5...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:08
+
+===== Success Update Menu: 
++Menu name: Returns
++Menu ID: 3693. =====
++ Time: 15-09-2018 16:26:08
+
+===== Success Update Menu: 
++Menu name: Custom Service
++Menu ID: 3694. =====
++ Time: 15-09-2018 16:26:09
+
+===== Process Nav Menu #7 =====
++ Time: 15-09-2018 16:26:09
++ Please wait process nav menu #6...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:10
+
+===== Success Update Menu: 
++Menu name: Advanced Search
++Menu ID: 3695. =====
++ Time: 15-09-2018 16:26:10
+
+===== Success Update Menu: 
++Menu name: Your Account
++Menu ID: 3696. =====
++ Time: 15-09-2018 16:26:10
+
+===== Process Nav Menu #8 =====
++ Time: 15-09-2018 16:26:10
++ Please wait process nav menu #7...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:11
+
+===== Success Update Menu: 
++Menu name: Terms &amp; Condition
++Menu ID: 3697. =====
++ Time: 15-09-2018 16:26:11
+
+===== Success Update Menu: 
++Menu name: Contact Us
++Menu ID: 3698. =====
++ Time: 15-09-2018 16:26:11
+
+===== Process Nav Menu #9 =====
++ Time: 15-09-2018 16:26:11
++ Please wait process nav menu #8...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:12
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3699. =====
++ Time: 15-09-2018 16:26:13
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3700. =====
++ Time: 15-09-2018 16:26:13
+
+===== Process Nav Menu #10 =====
++ Time: 15-09-2018 16:26:13
++ Please wait process nav menu #9...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:14
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3701. =====
++ Time: 15-09-2018 16:26:14
+
+===== Process Nav Menu #11 =====
++ Time: 15-09-2018 16:26:14
++ Please wait process nav menu #10...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:15
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3702. =====
++ Time: 15-09-2018 16:26:15
+
+===== Process Nav Menu #12 =====
++ Time: 15-09-2018 16:26:15
++ Please wait process nav menu #11...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:16
+
+===== Success Update Menu: 
++Menu name: Kitchen design
++Menu ID: 3703. =====
++ Time: 15-09-2018 16:26:16
+
+===== Success Update Menu: 
++Menu name: Living room  design
++Menu ID: 3704. =====
++ Time: 15-09-2018 16:26:16
+
+===== Process Nav Menu #13 =====
++ Time: 15-09-2018 16:26:16
++ Please wait process nav menu #12...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:17
+
+===== Success Update Menu: 
++Menu name: Elegant house
++Menu ID: 3705. =====
++ Time: 15-09-2018 16:26:17
+
+===== Success Update Menu: 
++Menu name: New presentation
++Menu ID: 3706. =====
++ Time: 15-09-2018 16:26:18
+
+===== Process Nav Menu #14 =====
++ Time: 15-09-2018 16:26:18
++ Please wait process nav menu #13...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:19
+
+===== Success Update Menu: 
++Menu name: Wooden house
++Menu ID: 3707. =====
++ Time: 15-09-2018 16:26:19
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3708. =====
++ Time: 15-09-2018 16:26:19
+
+===== Process Nav Menu #15 =====
++ Time: 15-09-2018 16:26:19
++ Please wait process nav menu #14...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:20
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3709. =====
++ Time: 15-09-2018 16:26:21
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3710. =====
++ Time: 15-09-2018 16:26:21
+
+===== Process Nav Menu #16 =====
++ Time: 15-09-2018 16:26:21
++ Please wait process nav menu #15...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:22
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3711. =====
++ Time: 15-09-2018 16:26:22
+
+===== Success Update Menu: 
++Menu name: About Us
++Menu ID: 3712. =====
++ Time: 15-09-2018 16:26:22
+
+===== Process Nav Menu #17 =====
++ Time: 15-09-2018 16:26:22
++ Please wait process nav menu #16...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:23
+
+===== Success Update Menu: 
++Menu name: Order History
++Menu ID: 3713. =====
++ Time: 15-09-2018 16:26:23
+
+===== Success Update Menu: 
++Menu name: Returns
++Menu ID: 3714. =====
++ Time: 15-09-2018 16:26:23
+
+===== Process Nav Menu #18 =====
++ Time: 15-09-2018 16:26:23
++ Please wait process nav menu #17...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:24
+
+===== Success Update Menu: 
++Menu name: Custom Service
++Menu ID: 3715. =====
++ Time: 15-09-2018 16:26:24
+
+===== Success Update Menu: 
++Menu name: Terms &amp; Condition
++Menu ID: 3716. =====
++ Time: 15-09-2018 16:26:25
+
+===== Process Nav Menu #19 =====
++ Time: 15-09-2018 16:26:25
++ Please wait process nav menu #18...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:26
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3717. =====
++ Time: 15-09-2018 16:26:26
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3718. =====
++ Time: 15-09-2018 16:26:26
+
+===== Process Nav Menu #20 =====
++ Time: 15-09-2018 16:26:26
++ Please wait process nav menu #19...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:27
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3719. =====
++ Time: 15-09-2018 16:26:27
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3720. =====
++ Time: 15-09-2018 16:26:27
+
+===== Process Nav Menu #21 =====
++ Time: 15-09-2018 16:26:27
++ Please wait process nav menu #20...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:28
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3721. =====
++ Time: 15-09-2018 16:26:28
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3722. =====
++ Time: 15-09-2018 16:26:29
+
+===== Process Nav Menu #22 =====
++ Time: 15-09-2018 16:26:29
++ Please wait process nav menu #21...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:30
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3723. =====
++ Time: 15-09-2018 16:26:30
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3724. =====
++ Time: 15-09-2018 16:26:30
+
+===== Process Nav Menu #23 =====
++ Time: 15-09-2018 16:26:30
++ Please wait process nav menu #22...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:31
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3725. =====
++ Time: 15-09-2018 16:26:31
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3726. =====
++ Time: 15-09-2018 16:26:31
+
+===== Process Nav Menu #24 =====
++ Time: 15-09-2018 16:26:31
++ Please wait process nav menu #23...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:32
+
+===== Success Update Menu: 
++Menu name: Blog Detail
++Menu ID: 3727. =====
++ Time: 15-09-2018 16:26:32
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3728. =====
++ Time: 15-09-2018 16:26:32
+
+===== Process Nav Menu #25 =====
++ Time: 15-09-2018 16:26:32
++ Please wait process nav menu #24...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:33
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3729. =====
++ Time: 15-09-2018 16:26:33
+
+===== Success Update Menu: 
++Menu name: Project Details
++Menu ID: 3730. =====
++ Time: 15-09-2018 16:26:34
+
+===== Process Nav Menu #26 =====
++ Time: 15-09-2018 16:26:34
++ Please wait process nav menu #25...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:35
+
+===== Success Update Menu: 
++Menu name: What we do
++Menu ID: 3731. =====
++ Time: 15-09-2018 16:26:35
+
+===== Success Update Menu: 
++Menu name: Our latest work
++Menu ID: 3732. =====
++ Time: 15-09-2018 16:26:35
+
+===== Process Nav Menu #27 =====
++ Time: 15-09-2018 16:26:35
++ Please wait process nav menu #26...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:36
+
+===== Success Update Menu: 
++Menu name: Sale OFF Products
++Menu ID: 3733. =====
++ Time: 15-09-2018 16:26:36
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3734. =====
++ Time: 15-09-2018 16:26:36
+
+===== Process Nav Menu #28 =====
++ Time: 15-09-2018 16:26:36
++ Please wait process nav menu #27...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:37
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3735. =====
++ Time: 15-09-2018 16:26:38
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3736. =====
++ Time: 15-09-2018 16:26:38
+
+===== Process Nav Menu #29 =====
++ Time: 15-09-2018 16:26:38
++ Please wait process nav menu #28...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:39
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3737. =====
++ Time: 15-09-2018 16:26:39
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3738. =====
++ Time: 15-09-2018 16:26:39
+
+===== Process Nav Menu #30 =====
++ Time: 15-09-2018 16:26:39
++ Please wait process nav menu #29...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:40
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3739. =====
++ Time: 15-09-2018 16:26:40
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3740. =====
++ Time: 15-09-2018 16:26:40
+
+===== Process Nav Menu #31 =====
++ Time: 15-09-2018 16:26:40
++ Please wait process nav menu #30...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:41
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3741. =====
++ Time: 15-09-2018 16:26:41
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3742. =====
++ Time: 15-09-2018 16:26:42
+
+===== Process Nav Menu #32 =====
++ Time: 15-09-2018 16:26:42
++ Please wait process nav menu #31...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:43
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3743. =====
++ Time: 15-09-2018 16:26:43
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3744. =====
++ Time: 15-09-2018 16:26:43
+
+===== Process Nav Menu #33 =====
++ Time: 15-09-2018 16:26:43
++ Please wait process nav menu #32...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:44
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3745. =====
++ Time: 15-09-2018 16:26:44
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3746. =====
++ Time: 15-09-2018 16:26:44
+
+===== Process Nav Menu #34 =====
++ Time: 15-09-2018 16:26:44
++ Please wait process nav menu #33...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:45
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3747. =====
++ Time: 15-09-2018 16:26:46
+
+===== Success Update Menu: 
++Menu name: Blog Detail
++Menu ID: 3748. =====
++ Time: 15-09-2018 16:26:46
+
+===== Process Nav Menu #35 =====
++ Time: 15-09-2018 16:26:46
++ Please wait process nav menu #34...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:47
+
+===== Success Update Menu: 
++Menu name: Page
++Menu ID: 3749. =====
++ Time: 15-09-2018 16:26:47
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3750. =====
++ Time: 15-09-2018 16:26:47
+
+===== Process Nav Menu #36 =====
++ Time: 15-09-2018 16:26:47
++ Please wait process nav menu #35...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:48
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3751. =====
++ Time: 15-09-2018 16:26:48
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3752. =====
++ Time: 15-09-2018 16:26:48
+
+===== Process Nav Menu #37 =====
++ Time: 15-09-2018 16:26:48
++ Please wait process nav menu #36...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:49
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3753. =====
++ Time: 15-09-2018 16:26:50
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3754. =====
++ Time: 15-09-2018 16:26:50
+
+===== Process Nav Menu #38 =====
++ Time: 15-09-2018 16:26:50
++ Please wait process nav menu #37...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:51
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3755. =====
++ Time: 15-09-2018 16:26:51
+
+===== Success Update Menu: 
++Menu name: Home
++Menu ID: 3756. =====
++ Time: 15-09-2018 16:26:51
+
+===== Process Nav Menu #39 =====
++ Time: 15-09-2018 16:26:51
++ Please wait process nav menu #38...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:52
+
+===== Success Update Menu: 
++Menu name: Home
++Menu ID: 3757. =====
++ Time: 15-09-2018 16:26:52
+
+===== Success Update Menu: 
++Menu name: Product Tab
++Menu ID: 3758. =====
++ Time: 15-09-2018 16:26:53
+
+===== Process Nav Menu #40 =====
++ Time: 15-09-2018 16:26:53
++ Please wait process nav menu #39...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:54
+
+===== Success Update Menu: 
++Menu name: Products Listing
++Menu ID: 3759. =====
++ Time: 15-09-2018 16:26:54
+
+===== Success Update Menu: 
++Menu name: Product types
++Menu ID: 3760. =====
++ Time: 15-09-2018 16:26:54
+
+===== Process Nav Menu #41 =====
++ Time: 15-09-2018 16:26:54
++ Please wait process nav menu #40...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:55
+
+===== Success Update Menu: 
++Menu name: Variable Product
++Menu ID: 3761. =====
++ Time: 15-09-2018 16:26:55
+
+===== Success Update Menu: 
++Menu name: Simple Product
++Menu ID: 3762. =====
++ Time: 15-09-2018 16:26:55
+
+===== Process Nav Menu #42 =====
++ Time: 15-09-2018 16:26:55
++ Please wait process nav menu #41...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:56
+
+===== Success Update Menu: 
++Menu name: Grouped Product
++Menu ID: 3763. =====
++ Time: 15-09-2018 16:26:56
+
+===== Success Update Menu: 
++Menu name: Affiliate/ External Product
++Menu ID: 3764. =====
++ Time: 15-09-2018 16:26:56
+
+===== Process Nav Menu #43 =====
++ Time: 15-09-2018 16:26:56
++ Please wait process nav menu #42...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:57
+
+===== Success Update Menu: 
++Menu name: Woo Pages
++Menu ID: 3765. =====
++ Time: 15-09-2018 16:26:57
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3766. =====
++ Time: 15-09-2018 16:26:58
+
+===== Process Nav Menu #44 =====
++ Time: 15-09-2018 16:26:58
++ Please wait process nav menu #43...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:26:58
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3767. =====
++ Time: 15-09-2018 16:26:59
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3768. =====
++ Time: 15-09-2018 16:26:59
+
+===== Process Nav Menu #45 =====
++ Time: 15-09-2018 16:26:59
++ Please wait process nav menu #44...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:27:00
+
+===== Success Update Menu: 
++Menu name: 
++Menu ID: 3769. =====
++ Time: 15-09-2018 16:27:00
+
+===== Success Update Menu: 
++Menu name: Main Shop Home
++Menu ID: 3770. =====
++ Time: 15-09-2018 16:27:00
+
+===== Process Nav Menu #46 =====
++ Time: 15-09-2018 16:27:00
++ Please wait process nav menu #45...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:27:01
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:27:01
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/nav_menu_15-09-2018.json.
+
+===== End Get Nav Menu =====
++ Time: 15-09-2018 16:27:01
++ Obtaining data nav menu successfully, please wait process recheck all data post...
+
+===== Start Process Posts =====
++ Time: 15-09-2018 16:27:02
+
+===== Start Recheck Data Post =====
++ Time: 15-09-2018 16:27:02
+
+===== Failed reading file from server! =====
++ Time: 15-09-2018 16:27:02
++ An error occurred while reading a file from your server! Tried reading file from path: 
+D:\Xampp\htdocs\dongnam/wp-content/uploads/2018/09/missing_menu_items_15-09-2018.json.
+
+===== End Recheck Data Post =====
++ Time: 15-09-2018 16:27:02
++ Check all data post success, please wait process options...
+
+===== End Process Posts =====
++ Time: 15-09-2018 16:27:02
++ Import all posts successfully, please wait process widgets...
+
+===== Start Process Options =====
++ Time: 15-09-2018 16:27:03
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Primary Menu is: 27.
+
+===== Nav Menu Locations =====
++ Time: 15-09-2018 16:27:03
++ ID Mobile Menu is: 31.
+
+===== End Process Options =====
++ Time: 15-09-2018 16:27:03
++ Import all option successfully!
+
+===== Start Process widgets =====
++ Time: 15-09-2018 16:27:04
+
+===== End Process widgets =====
++ Time: 15-09-2018 16:27:04
++ Import all widgets successfully, please wait process posts...
+
+===== Start Process Import RevSlider =====
++ Time: 15-09-2018 16:27:05
+
+===== End Process Import RevSlider =====
++ Time: 15-09-2018 16:27:05
++ Skip process import revslider.
+
+===== Complete Importer =====
++ Time: 15-09-2018 16:27:06
++ Import successfully! Thank you!
+

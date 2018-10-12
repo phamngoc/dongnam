@@ -36,7 +36,7 @@ $testimonial_id = uniqid();
                     </a>
                 <?php endif;?>
             </div>
-            <p class="testimonial-content"><?php the_content();?> </p>
+            <div class="testimonial-content"><?php the_content();?> </div>
             <div class="info-testimonial">
                 <?php if($url):?>
                     <a href="<?php echo esc_url($url);?>">
